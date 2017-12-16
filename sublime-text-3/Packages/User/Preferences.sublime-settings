@@ -1,0 +1,28 @@
+{
+	"added_words":
+	[
+		"Ubuntu"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Ubuntu",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	 "draw_minimap_border": true,
+	 "always_show_minimap_viewport": true,
+	 "highlight_line": true,
+	 "line_padding_top": 2,
+
+	// When auto_find_in_selection is enabled, the "Find in Selection" flag
+	// will be enabled automatically when multiple lines of text are selected
+	"auto_find_in_selection": true,
+	"scroll_speed": 4.0,
+	 "bold_folder_labels": true,
+	 "show_encoding": true,
+}

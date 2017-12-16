@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz_session id="10c1481d832278bc38151104261027907000000018070058">
+  <window id="10c1481d832278bc38151104352740376300000018070060" title="Google Maps - Mozilla Firefox" class="Firefox" name="Navigator" role="browser" command="firefox">
+    <geometry x="1483" y="24" width="610" height="730"/>
+    <maximized vert="yes" horz="yes"/>
+    <workspace index="0"/>
+  </window>
+</compiz_session>
