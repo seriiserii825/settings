@@ -5,8 +5,28 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"AutoBackups",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSScomb",
+		"EasyMotion",
 		"Emmet",
 		"Emmet Css Snippets",
-		"Package Control"
+		"FindKeyConflicts",
+		"Gist",
+		"Inc-Dec-Value",
+		"JavaScript Completions",
+		"JavaScript Next Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Local History",
+		"Package Control",
+		"PlainTasks",
+		"SCSS",
+		"SideBarEnhancements",
+		"Theme - Afterglow"
 	]
 }
