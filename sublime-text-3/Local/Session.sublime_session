@@ -1,8 +1,8 @@
 {
 	"folder_history":
 	[
-		"/home/serii/Загрузки/flex-site.loc",
 		"/var/www/test.loc",
+		"/home/serii/Загрузки/flex-site.loc",
 		"/var/www/test.loc/src",
 		"/var/www/stepantev.loc",
 		"/home/serii/Books",
@@ -22,11 +22,11 @@
 		"/var/www/test.site/public_html"
 	],
 	"last_version": 3143,
-	"last_window_id": 107,
+	"last_window_id": 130,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 508.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -153,21 +153,129 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "key",
+				"height": 104.0,
+				"last_filter": "git graph",
 				"selected_items":
 				[
+					[
+						"git graph",
+						"git: graph"
+					],
+					[
+						"log",
+						"git: log"
+					],
+					[
+						"git status",
+						"git: status"
+					],
+					[
+						"git push",
+						"git: push"
+					],
+					[
+						"github",
+						"github: open file on remote"
+					],
+					[
+						"githu",
+						"git: graph current file"
+					],
+					[
+						"statu",
+						"git: status"
+					],
+					[
+						"git loc",
+						"git: log current file"
+					],
+					[
+						"sta",
+						"git: status"
+					],
+					[
+						"status",
+						"git: status"
+					],
+					[
+						"git bra",
+						"git: branch"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"local",
+						"Local History: Open"
+					],
+					[
+						"loc",
+						"Local History: Save Now"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"diff",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"locl",
+						"Local History: Browse in Explorer"
+					],
+					[
+						"loca",
+						"Local History: Menu"
+					],
+					[
+						"term",
+						"Preferences: Terminal View: Keybindings"
+					],
+					[
+						"termina",
+						"Preferences: Terminal View: Settings"
+					],
 					[
 						"key",
 						"Preferences: Key Bindings"
 					],
 					[
-						"findkey",
-						"FindKeyConflicts: All Key Maps to Quick Panel"
+						"terminal",
+						"Preferences: Terminal View: Keybindings"
 					],
 					[
-						"install",
+						"install ",
 						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"findkey",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"gist",
+						"Gist: Insert Gist"
 					],
 					[
 						"findk",
@@ -198,18 +306,6 @@
 						"Tasks: Complete"
 					],
 					[
-						"gist",
-						"Gist: Open Gist"
-					],
-					[
-						"local",
-						"Local History: Menu"
-					],
-					[
-						"loc",
-						"Local History: Open"
-					],
-					[
 						"packages",
 						"Preferences: Browse Packages"
 					],
@@ -218,28 +314,12 @@
 						"AutoBackups: Open Backups Folder"
 					],
 					[
-						"loca",
-						"Local History: Menu"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"i",
 						"Package Control: Install Package"
 					],
 					[
 						"instal",
 						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"inst",
@@ -326,10 +406,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"git push",
-						"Git: Push"
-					],
-					[
 						"git commit",
 						"Git: Commit history"
 					],
@@ -354,10 +430,6 @@
 						"Set Syntax: Web Inspector (Log)"
 					],
 					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
 						"git hi",
 						"Github: History"
 					],
@@ -378,16 +450,8 @@
 						"Package Control: Disable Package"
 					],
 					[
-						"terminal",
-						"Preferences: Terminal View: Color Scheme"
-					],
-					[
 						"gutter",
 						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"github",
-						"Github: Blame"
 					],
 					[
 						"git ",
@@ -398,16 +462,8 @@
 						"GitGutter: Support Info"
 					],
 					[
-						"git status",
-						"GitStatus: Unmerged files"
-					],
-					[
 						"git sta",
 						"GitStatus: Changed files"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"install pa",
@@ -438,10 +494,6 @@
 						"Preferences: Settings"
 					],
 					[
-						"termina",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
 						"package",
 						"Package Control: Remove Package"
 					],
@@ -454,7 +506,7 @@
 						"SassBeautify"
 					]
 				],
-				"width": 537.0
+				"width": 483.0
 			},
 			"console":
 			{
@@ -475,21 +527,33 @@
 			},
 			"file_history":
 			[
-				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
-				"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
 				"/var/www/test.loc/src/index.html",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/src/index-20171219001110.html",
+				"/home/serii/Settings/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/var/www/test.loc/src/assets/sass/style.scss",
+				"/var/www/test.loc/build/index.html",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/build/index-20171219000932.html",
+				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/serii/Загрузки/flex-site.loc/build/index.html",
+				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
+				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
+				"/tmp/mail.php",
+				"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
+				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/var/www/test.loc/test.loc.todo",
 				"/tmp/isnumeric",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
-				"/var/www/test.loc/src/assets/sass/style.scss",
 				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
 				"/home/serii/Settings/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/BufferScroll.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/BufferScroll/BufferScroll.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/Default.sublime-keymap",
@@ -590,22 +654,11 @@
 				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson9/controllers/CategoryController.php",
 				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson6/controllers/CategoryController.php",
 				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-3 Повышение квалификации/Conten.txt",
-				"/var/www/stepantev-homework.loc/App/controllers/News.php",
-				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-2 Профессиональное программирование/5.lesson/дз.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-2 Профессиональное программирование/7.lesson/дз.txt",
-				"/var/www/test.site/public_html/index.php",
-				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-2 Профессиональное программирование/1.lesson/дз.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/Php-geebrains-2/1 Работа с базой данных/readme.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/Php-geebrains-2/6 Создание класса модели. Драйвер БД/дз.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/Php-geebrains-2/3 Базовый шаблон/readme.txt",
-				"/home/serii/Загрузки/index.html",
-				"/home/serii/Загрузки/index.php",
-				"/home/serii/Документы/Cloud/Courses/PHP/Php-geebrains-2/1 Работа с базой данных/lessonslinks.txt",
-				"/var/www/test.site/public_html/php1/lesson7-data-base/gallery/READ.me"
+				"/var/www/stepantev-homework.loc/App/controllers/News.php"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -619,9 +672,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"ctrl+k",
-					"key",
-					"/assets"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -638,13 +688,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 28.0
 			},
 			"input":
 			{
 				"height": 52.0
 			},
 			"menu_visible": true,
+			"output.GitSavvy":
+			{
+				"height": 128.0
+			},
 			"output.clipboard_manager":
 			{
 				"height": 152.0
@@ -665,6 +719,10 @@
 			{
 				"height": 0.0
 			},
+			"output.show_commit_info":
+			{
+				"height": 128.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
@@ -678,12 +736,24 @@
 				"selected_items":
 				[
 					[
-						"style",
-						"src/assets/sass/style.scss"
-					],
-					[
 						"ind",
 						"src/index.html"
+					],
+					[
+						"style",
+						"build/assets/css/style.css"
+					],
+					[
+						"index",
+						"src/index.html"
+					],
+					[
+						"inde.",
+						"build/index.html"
+					],
+					[
+						"main",
+						"src/assets/js/main.js"
 					],
 					[
 						"style.s",
@@ -696,10 +766,6 @@
 					[
 						"packag",
 						"package.json"
-					],
-					[
-						"main",
-						"build/assets/js/main.js"
 					],
 					[
 						"",
@@ -840,7 +906,7 @@
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -966,11 +1032,28 @@
 			"buffers":
 			[
 				{
-					"file": "/home/serii/Загрузки/flex-site.loc/build/index.html",
+					"file": "/var/www/test.loc/src/index.html",
 					"settings":
 					{
-						"buffer_size": 7789,
+						"buffer_size": 50,
 						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/test.loc/gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 6988,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/test.loc/src/assets/header/header.scss",
+					"settings":
+					{
+						"buffer_size": 4621,
 						"line_ending": "Unix"
 					}
 				}
@@ -982,10 +1065,130 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "",
+				"height": 274.0,
+				"last_filter": "remove",
 				"selected_items":
 				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"gulp",
+						"Gulp"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"github",
+						"github: open repo"
+					],
+					[
+						"git graph",
+						"git: graph"
+					],
+					[
+						"log",
+						"git: log"
+					],
+					[
+						"git status",
+						"git: status"
+					],
+					[
+						"git push",
+						"git: push"
+					],
+					[
+						"githu",
+						"git: graph current file"
+					],
+					[
+						"statu",
+						"git: status"
+					],
+					[
+						"git loc",
+						"git: log current file"
+					],
+					[
+						"sta",
+						"git: status"
+					],
+					[
+						"status",
+						"git: status"
+					],
+					[
+						"git bra",
+						"git: branch"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"local",
+						"Local History: Open"
+					],
+					[
+						"loc",
+						"Local History: Save Now"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"diff",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"locl",
+						"Local History: Browse in Explorer"
+					],
+					[
+						"loca",
+						"Local History: Menu"
+					],
+					[
+						"term",
+						"Preferences: Terminal View: Keybindings"
+					],
+					[
+						"termina",
+						"Preferences: Terminal View: Settings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"findkey",
+						"FindKeyConflicts: All Conflicts"
+					],
 					[
 						"gist",
 						"Gist: Insert Gist"
@@ -993,18 +1196,6 @@
 					[
 						"findk",
 						"FindKeyConflicts: All Key Maps to Quick Panel"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings"
-					],
-					[
-						"findkey",
-						"FindKeyConflicts: All Key Maps to Quick Panel"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"emmet: ",
@@ -1031,14 +1222,6 @@
 						"Tasks: Complete"
 					],
 					[
-						"local",
-						"Local History: Menu"
-					],
-					[
-						"loc",
-						"Local History: Open"
-					],
-					[
 						"packages",
 						"Preferences: Browse Packages"
 					],
@@ -1047,28 +1230,12 @@
 						"AutoBackups: Open Backups Folder"
 					],
 					[
-						"loca",
-						"Local History: Menu"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"i",
 						"Package Control: Install Package"
 					],
 					[
 						"instal",
 						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"inst",
@@ -1155,10 +1322,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"git push",
-						"Git: Push"
-					],
-					[
 						"git commit",
 						"Git: Commit history"
 					],
@@ -1183,10 +1346,6 @@
 						"Set Syntax: Web Inspector (Log)"
 					],
 					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
 						"git hi",
 						"Github: History"
 					],
@@ -1207,16 +1366,8 @@
 						"Package Control: Disable Package"
 					],
 					[
-						"terminal",
-						"Preferences: Terminal View: Color Scheme"
-					],
-					[
 						"gutter",
 						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"github",
-						"Github: Blame"
 					],
 					[
 						"git ",
@@ -1227,16 +1378,8 @@
 						"GitGutter: Support Info"
 					],
 					[
-						"git status",
-						"GitStatus: Unmerged files"
-					],
-					[
 						"git sta",
 						"GitStatus: Changed files"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"install pa",
@@ -1265,10 +1408,6 @@
 					[
 						"setting",
 						"Preferences: Settings"
-					],
-					[
-						"termina",
-						"Terminal View: Open Bash Terminal"
 					],
 					[
 						"package",
@@ -1304,30 +1443,49 @@
 			},
 			"expanded_folders":
 			[
-				"/home/serii/Загрузки/flex-site.loc",
-				"/home/serii/Загрузки/flex-site.loc/bourbon",
-				"/home/serii/Загрузки/flex-site.loc/build"
+				"/var/www/test.loc",
+				"/var/www/test.loc/src",
+				"/var/www/test.loc/src/assets",
+				"/var/www/test.loc/src/assets/header",
+				"/var/www/test.loc/src/assets/js",
+				"/var/www/test.loc/src/assets/sass",
+				"/var/www/test.loc/src/templates"
 			],
 			"file_history":
 			[
+				"/var/www/test.loc/src/assets/sass/style.scss",
+				"/var/www/test.loc/src/templates/head.html",
+				"/var/www/test.loc/gulpfile.js",
+				"/var/www/test.loc/src/templates/end.html",
+				"/var/www/test.loc/src/assets/header/header.scss",
+				"/var/www/test.loc/node_modules/glob-watcher/test/main.js",
+				"/var/www/test.loc/node_modules/fontfacegen/lib/stylesheets.js",
+				"/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+				"/var/www/test.loc/src/index.html",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/src/index-20171219001110.html",
+				"/home/serii/Settings/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
+				"/var/www/test.loc/build/index.html",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/build/index-20171219000932.html",
+				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/serii/Загрузки/flex-site.loc/build/index.html",
 				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
 				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
 				"/tmp/mail.php",
 				"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
 				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
-				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/var/www/test.loc/src/index.html",
 				"/var/www/test.loc/test.loc.todo",
 				"/tmp/isnumeric",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
-				"/var/www/test.loc/src/assets/sass/style.scss",
 				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
 				"/home/serii/Settings/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/BufferScroll.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/BufferScroll/BufferScroll.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/Default.sublime-keymap",
@@ -1422,22 +1580,7 @@
 				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson10/controllers/CategoryController.php",
 				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson10/controllers/ProductController.php",
 				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson10/models/Category.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson10/models/Product.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson10/views/category/view.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson10/views/category/index.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson9/controllers/CategoryController.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson6/controllers/CategoryController.php",
-				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-3 Повышение квалификации/Conten.txt",
-				"/var/www/stepantev-homework.loc/App/controllers/News.php",
-				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-2 Профессиональное программирование/5.lesson/дз.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-2 Профессиональное программирование/7.lesson/дз.txt",
-				"/var/www/test.site/public_html/index.php",
-				"/home/serii/Документы/Cloud/Courses/PHP/ProfIT PHP (1-3 уровень) 2016/PHP-2 Профессиональное программирование/1.lesson/дз.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/Php-geebrains-2/1 Работа с базой данных/readme.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/Php-geebrains-2/6 Создание класса модели. Драйвер БД/дз.txt",
-				"/home/serii/Документы/Cloud/Courses/PHP/Php-geebrains-2/3 Базовый шаблон/readme.txt",
-				"/home/serii/Загрузки/index.html",
-				"/home/serii/Загрузки/index.php"
+				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson10/models/Product.php"
 			],
 			"find":
 			{
@@ -1448,6 +1591,7 @@
 				"height": 117.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -1455,9 +1599,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"ctrl+k",
-					"key",
-					"/assets"
+					"//"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1475,37 +1617,37 @@
 			"folders":
 			[
 				{
-					"path": "/home/serii/Загрузки/flex-site.loc"
+					"path": "/var/www/test.loc"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/serii/Загрузки/flex-site.loc/build/index.html",
+							"file": "/var/www/test.loc/src/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7789,
+								"buffer_size": 50,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6097,
-										6097
+										50,
+										50
 									]
 								],
 								"settings":
 								{
 									"apply_syntax_touched": true,
 									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone": 14,
 									"bracket_highlighter.clone_locations":
 									{
 										"close":
@@ -1523,61 +1665,61 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_single_quote_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -1596,75 +1738,470 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content",
+										"bh_single_quote_content"
+									],
+									"bs_sintax": "html",
+									"buffer_scroll_name": "4c747400",
+									"git_savvy.repo_path": "/var/www/test.loc",
+									"spell_check": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/var/www/test.loc/gulpfile.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6988,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4283,
+										4283
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2424,
+												2425
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2190,
+												2191
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content"
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
-									"bs_sintax": "html",
-									"buffer_scroll_name": "f2a6b6c0",
-									"easy_motion_mode": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4660,
+												4661
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												4282,
+												4283
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bs_sintax": "gulpfile js",
+									"buffer_scroll_name": "9910a3c0",
+									"git_savvy.repo_path": "/var/www/test.loc",
 									"spell_check": false,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2943.0,
+								"translation.y": 2586.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/var/www/test.loc/src/assets/header/header.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4621,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2444,
+										2444
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 123,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"bs_sintax": "scss",
+									"buffer_scroll_name": "89b0b57f",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
+									"git_savvy.repo_path": "/var/www/test.loc",
+									"spell_check": false,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2463.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1672,7 +2209,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -1701,6 +2238,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.GitSavvy":
+			{
+				"height": 128.0
+			},
 			"output.clipboard_manager":
 			{
 				"height": 152.0
@@ -1717,9 +2258,17 @@
 			{
 				"height": 152.0
 			},
+			"output.gulp_output":
+			{
+				"height": 412.0
+			},
 			"output.mdpopups":
 			{
 				"height": 0.0
+			},
+			"output.show_commit_info":
+			{
+				"height": 128.0
 			},
 			"pinned_build_system": "",
 			"position": "0,1,0,0,0,0,0,0,0,1440,900",
@@ -1736,16 +2285,40 @@
 				"selected_items":
 				[
 					[
-						"main",
-						"src/assets/js/main.js"
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"header.sc",
+						"src/assets/header/header.scss"
 					],
 					[
 						"style",
 						"src/assets/sass/style.scss"
 					],
 					[
+						"gulpfi",
+						"gulpfile.js"
+					],
+					[
+						"main.js",
+						"node_modules/glob-watcher/test/main.js"
+					],
+					[
 						"ind",
 						"src/index.html"
+					],
+					[
+						"index",
+						"src/index.html"
+					],
+					[
+						"inde.",
+						"build/index.html"
+					],
+					[
+						"main",
+						"src/assets/js/main.js"
 					],
 					[
 						"style.s",
@@ -1901,7 +2474,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 100,
+			"window_id": 130,
 			"workspace_name": ""
 		}
 	],

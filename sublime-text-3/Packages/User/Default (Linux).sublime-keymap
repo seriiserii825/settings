@@ -85,7 +85,9 @@
   // increment 1
   {"keys": ["ctrl+up"], "args": {"action": "increment_number_by_1"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.increment_number_by_1"} ] }, 
   {"keys": ["shift+alt+up"], "args": {"action": "increment_number_by_10"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.increment_number_by_10"} ] },
+  /*================== Terminal===========================*/
+  {"keys": ["ctrl+shift+alt+t"], "command": "new_file", "context": [{"key": "setting.terminal_view"}]},
 ]
 
-/*================== Gist ===========================*/
+
 
