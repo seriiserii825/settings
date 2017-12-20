@@ -19,8 +19,8 @@
   { "keys": ["ctrl+shift+l"], "command": "split_selection_into_lines" }, // multiselect end of line in selection
   { "keys": ["alt+j"], "command": "find_under_expand" },// expand
   { "keys": ["ctrl+alt+shift+j"], "command": "find_under_expand_skip" }, // skip expand
-  { "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} }, // select between tags
-  { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} }, // select between tags
+  { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "indentation"} }, // select between tags
+  { "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "tag"} }, // select between tags
   //select outword
   {"keys": ["ctrl+,"], "args": {"action": "balance_outward"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.balance_outward"} ] },
   //select inword
