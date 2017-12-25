@@ -22,8 +22,7 @@
 	"save_on_focus_lost": true,
 	"scroll_speed": 4.0,
 	"show_encoding": true,
-	//"tabs_small": true,
+	"tab_size": 4,
 	"theme": "Afterglow.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }

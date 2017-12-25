@@ -1,0 +1,36 @@
+File    
+open folder(prompt) -- ctrl+shift+o     select another project  => ctrl+alt+p
+                                                                              
+Tabs
+close Tabs => alt+.    close all => alt+shift+.
+                                                                                
+Indent
+ctrl+shift+i - reindent
+
+Select
+ctrl+shift+. -select from attributes
+ctrl+shift+l - multiselect to end of lines
+ctrl+k, ctrl+d - skip indent
+ctrl+shift+j - expand selection
+ctrl+shift+g - wrap with abbreviation
+
+View
+alt+right -next view
+alt+left - prev view
+
+Navigation
+ctrl+r - go to id
+ctrl+; - go to class
+f12 - go to definition
+alt+- - jump back
+
+Find 
+ctrl+shift+f - find in files
+alt+f3 - find all
+
+Folding
+ctrl+shift+[ - fold
+ctrl+shift+] - unfold
+
+Sort
+ctrl+f9 - sort lines

@@ -1,2 +1,3 @@
 18/12/2017 - create new .vimrc, reinstall nvm 6.12.2, new settings for sublime text
 20/12/2017 -  install pick
+21/12/2017 - install sass, ruby, scss-lint
