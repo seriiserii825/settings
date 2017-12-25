@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Cleanvertising-Light";
+    src: url("CleanvertisingLight.eot");
+    src: url("CleanvertisingLight.eot?#iefix") format("embedded-opentype"),
+         url("CleanvertisingLight.woff2") format("woff2"),
+         url("CleanvertisingLight.woff") format("woff"),
+         url("CleanvertisingLight.ttf") format("ttf"),
+         url("CleanvertisingLight.svg#Cleanvertising-Light") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}
