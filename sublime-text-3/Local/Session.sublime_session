@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/var/www/start-template.loc",
 		"/home/serii/Документы/virtualbox",
 		"/var/www/test.loc",
 		"/home/serii/Загрузки/flex-site.loc",
@@ -23,7 +24,7 @@
 		"/var/www/test.site/public_html"
 	],
 	"last_version": 3143,
-	"last_window_id": 136,
+	"last_window_id": 149,
 	"log_indexing": false,
 	"settings":
 	{
@@ -34,6 +35,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"pa",
+						"partials\t(_start.scss)"
+					],
+					[
+						"im",
+						"import\t(_start.scss)"
+					],
 					[
 						"copy",
 						"copyright\t(end.html)"
@@ -198,10 +207,58 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 240.0,
-				"last_filter": "terminal",
+				"height": 400.0,
+				"last_filter": "key",
 				"selected_items":
 				[
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"findkey",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
+					[
+						"all",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"finda",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"termina",
+						"Preferences: Terminal View: Readme"
+					],
+					[
+						"ky",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"keycon",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"trem",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
+					],
 					[
 						"terminal",
 						"Terminal View: Open Bash Terminal"
@@ -235,10 +292,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"remove",
 						"Package Control: Remove Package"
 					],
@@ -253,10 +306,6 @@
 					[
 						"git stat",
 						"git: status"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings"
 					],
 					[
 						"run las",
@@ -343,20 +392,8 @@
 						"Local History: Menu"
 					],
 					[
-						"term",
-						"Preferences: Terminal View: Keybindings"
-					],
-					[
-						"termina",
-						"Preferences: Terminal View: Settings"
-					],
-					[
 						"remov",
 						"Package Control: Remove Package"
-					],
-					[
-						"findkey",
-						"FindKeyConflicts: All Conflicts"
 					],
 					[
 						"gist",
@@ -600,6 +637,24 @@
 			},
 			"file_history":
 			[
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/TerminalView/README.md",
+				"/var/www/start-template.loc/src/assets/header/header.scss",
+				"/var/www/start-template.loc/src/assets/sass/style.scss",
+				"/var/www/start-template.loc/gulpfile.js",
+				"/var/www/start-template.loc/src/index.html",
+				"/var/www/start-template.loc/src/assets/sass/partials/_variables.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_start.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_sprite_template.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_mixins.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_icons.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_iconmoon.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_fonts.scss",
+				"/var/www/start-template.loc/src/assets/js/main.js",
+				"/var/www/start-template.loc/src/templates/end.html",
+				"/var/www/start-template.loc/src/templates/head.html",
 				"/home/serii/Документы/virtualbox/hat.svg",
 				"/var/www/test.loc/index.html",
 				"/var/www/test.loc/style.css",
@@ -626,8 +681,6 @@
 				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
 				"/home/serii/Загрузки/flex-site.loc/build/index.html",
 				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
 				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
@@ -711,27 +764,11 @@
 				"/home/serii/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/home/serii/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
 				"/home/serii/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/TabsShortcuts/Default (Linux).sublime-keymap",
-				"/var/www/test.site/.gitignore",
-				"/home/serii/.config/sublime-text-3/Packages/TerminalView/README.md",
-				"/home/serii/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
-				"/var/www/test.site/public_html/film.txt",
-				"/home/serii/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/DocBlockr/README.md",
-				"/var/www/sass.loc/.gitignore",
-				"/var/www/sass.loc/public/bundle.min.css",
-				"/var/www/sass.loc/public/index.html",
-				"/home/serii/Документы/Cloud/Courses/Yii/Eliseev/01/lesson_content.txt",
-				"/home/serii/Documents/Cloud/Courses/Yii/Yii_Geekbrains/Урок 2. Основные понятия системы/maket/файлы урока - 2/frontend/modules/main/views/default/index.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson25/modules/admin/views/order/view.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson26/modules/admin/views/category/index.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson23/models/User.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson23/models/LoginForm.php"
+				"/home/serii/.config/sublime-text-3/Packages/TabsShortcuts/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -745,6 +782,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"new_file",
+					"item"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -813,20 +852,76 @@
 				"selected_items":
 				[
 					[
-						"style.s",
-						"style.scss"
+						"header",
+						"src/assets/header/header.scss"
 					],
 					[
-						"stle",
-						"style.css"
+						"style.",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"ind",
+						"src/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"varia",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"start",
+						"src/assets/sass/partials/_start.scss"
+					],
+					[
+						"sprite_",
+						"src/assets/sass/partials/_sprite_template.scss"
+					],
+					[
+						"mixins",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"icons.sc",
+						"src/assets/sass/partials/_icons.scss"
+					],
+					[
+						"iconmoo",
+						"src/assets/sass/partials/_iconmoon.scss"
+					],
+					[
+						"font.sc",
+						"src/assets/sass/partials/_fonts.scss"
+					],
+					[
+						"style.sc",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"main",
+						"src/assets/js/main.js"
+					],
+					[
+						"inde",
+						"src/index.html"
 					],
 					[
 						"end",
 						"src/templates/end.html"
 					],
 					[
-						"inde",
-						"src/index.html"
+						"head",
+						"src/templates/head.html"
+					],
+					[
+						"style.s",
+						"style.scss"
+					],
+					[
+						"stle",
+						"style.css"
 					],
 					[
 						"_mix",
@@ -845,14 +940,6 @@
 						"src/index.html"
 					],
 					[
-						"head",
-						"src/templates/head.html"
-					],
-					[
-						"gulp",
-						"gulpfile.js"
-					],
-					[
 						"header.sc",
 						"src/assets/header/header.scss"
 					],
@@ -869,16 +956,8 @@
 						"node_modules/glob-watcher/test/main.js"
 					],
 					[
-						"ind",
-						"src/index.html"
-					],
-					[
 						"inde.",
 						"build/index.html"
-					],
-					[
-						"main",
-						"src/assets/js/main.js"
 					],
 					[
 						"styl",
@@ -891,10 +970,6 @@
 					[
 						"",
 						"src/index.html"
-					],
-					[
-						"style.",
-						"src/assets/sass/style.scss"
 					],
 					[
 						"boots",
@@ -1017,7 +1092,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 204.0,
+			"side_bar_width": 259.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1032,6 +1107,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"pa",
+						"partials\t(_start.scss)"
+					],
+					[
+						"im",
+						"import\t(_start.scss)"
+					],
 					[
 						"copy",
 						"copyright\t(end.html)"
@@ -1193,10 +1276,11 @@
 			"buffers":
 			[
 				{
-					"file": "/home/serii/Документы/virtualbox/man.svg",
+					"file": "/var/www/start-template.loc/src/index.html",
 					"settings":
 					{
-						"buffer_size": 61178,
+						"buffer_size": 238,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -1208,10 +1292,66 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 240.0,
-				"last_filter": "terminal",
+				"height": 274.0,
+				"last_filter": "remove",
 				"selected_items":
 				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"findkey",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
+					[
+						"all",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"finda",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"termina",
+						"Preferences: Terminal View: Readme"
+					],
+					[
+						"ky",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"keycon",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"trem",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
+					],
 					[
 						"terminal",
 						"Terminal View: Open Bash Terminal"
@@ -1245,14 +1385,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"gulp",
 						"Gulp: Run last task"
 					],
@@ -1263,10 +1395,6 @@
 					[
 						"git stat",
 						"git: status"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings"
 					],
 					[
 						"run las",
@@ -1353,20 +1481,8 @@
 						"Local History: Menu"
 					],
 					[
-						"term",
-						"Preferences: Terminal View: Keybindings"
-					],
-					[
-						"termina",
-						"Preferences: Terminal View: Settings"
-					],
-					[
 						"remov",
 						"Package Control: Remove Package"
-					],
-					[
-						"findkey",
-						"FindKeyConflicts: All Conflicts"
 					],
 					[
 						"gist",
@@ -1427,10 +1543,6 @@
 					[
 						"csscom",
 						"Run CSScomb"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"color",
@@ -1610,10 +1722,35 @@
 			},
 			"expanded_folders":
 			[
-				"/home/serii/Документы/virtualbox"
+				"/var/www/start-template.loc",
+				"/var/www/start-template.loc/src",
+				"/var/www/start-template.loc/src/assets",
+				"/var/www/start-template.loc/src/assets/fonts",
+				"/var/www/start-template.loc/src/assets/header",
+				"/var/www/start-template.loc/src/assets/js",
+				"/var/www/start-template.loc/src/assets/sass",
+				"/var/www/start-template.loc/src/assets/sass/partials"
 			],
 			"file_history":
 			[
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/serii/Settings/sublime-text-3/Packages/TerminalView/README.md",
+				"/var/www/start-template.loc/src/assets/header/header.scss",
+				"/var/www/start-template.loc/src/assets/sass/style.scss",
+				"/var/www/start-template.loc/gulpfile.js",
+				"/var/www/start-template.loc/src/index.html",
+				"/var/www/start-template.loc/src/assets/sass/partials/_variables.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_start.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_sprite_template.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_mixins.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_icons.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_iconmoon.scss",
+				"/var/www/start-template.loc/src/assets/sass/partials/_fonts.scss",
+				"/var/www/start-template.loc/src/assets/js/main.js",
+				"/var/www/start-template.loc/src/templates/end.html",
+				"/var/www/start-template.loc/src/templates/head.html",
 				"/home/serii/Документы/virtualbox/hat.svg",
 				"/var/www/test.loc/index.html",
 				"/var/www/test.loc/style.css",
@@ -1640,8 +1777,6 @@
 				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
 				"/home/serii/Загрузки/flex-site.loc/build/index.html",
 				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
 				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
@@ -1725,27 +1860,11 @@
 				"/home/serii/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/home/serii/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
 				"/home/serii/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/TabsShortcuts/Default (Linux).sublime-keymap",
-				"/var/www/test.site/.gitignore",
-				"/home/serii/.config/sublime-text-3/Packages/TerminalView/README.md",
-				"/home/serii/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
-				"/var/www/test.site/public_html/film.txt",
-				"/home/serii/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/DocBlockr/README.md",
-				"/var/www/sass.loc/.gitignore",
-				"/var/www/sass.loc/public/bundle.min.css",
-				"/var/www/sass.loc/public/index.html",
-				"/home/serii/Документы/Cloud/Courses/Yii/Eliseev/01/lesson_content.txt",
-				"/home/serii/Documents/Cloud/Courses/Yii/Yii_Geekbrains/Урок 2. Основные понятия системы/maket/файлы урока - 2/frontend/modules/main/views/default/index.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson25/modules/admin/views/order/view.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson26/modules/admin/views/category/index.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson23/models/User.php",
-				"/home/serii/Документы/Cloud/Courses/Yii/Coolday/part2/rar/lesson23/models/LoginForm.php"
+				"/home/serii/.config/sublime-text-3/Packages/TabsShortcuts/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -1759,6 +1878,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"new_file",
+					"item"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1776,7 +1897,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/serii/Документы/virtualbox"
+					"path": "/var/www/start-template.loc"
 				}
 			],
 			"groups":
@@ -1787,19 +1908,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/serii/Документы/virtualbox/man.svg",
-							"semi_transient": true,
+							"file": "/var/www/start-template.loc/src/index.html",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 61178,
+								"buffer_size": 238,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										748,
-										748
+										108,
+										108
 									]
 								],
 								"settings":
@@ -1811,12 +1932,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												114,
+												116
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												109,
+												111
+											]
 										},
 										"unmatched":
 										{
@@ -1824,61 +1960,61 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -1886,24 +2022,24 @@
 										{
 											"1":
 											[
-												747,
-												748
+												114,
+												116
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/double_quote.png",
-												"region.greenish"
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
 											]
 										},
 										"open":
 										{
 											"1":
 											[
-												739,
-												740
+												109,
+												111
 											]
 										},
 										"unmatched":
@@ -1912,67 +2048,68 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
-									"bs_sintax": "xml",
-									"buffer_scroll_name": "97bb1458",
-									"git_savvy.repo_path": "/home/serii",
-									"syntax": "Packages/XML/XML.sublime-syntax",
-									"tab_size": 2,
+									"bs_sintax": "html",
+									"buffer_scroll_name": "a508af1b",
+									"git_savvy.repo_path": "/var/www/start-template.loc",
+									"spell_check": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
@@ -2063,20 +2200,76 @@
 				"selected_items":
 				[
 					[
-						"style.s",
-						"style.scss"
+						"header",
+						"src/assets/header/header.scss"
 					],
 					[
-						"stle",
-						"style.css"
+						"style.",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"ind",
+						"src/index.html"
+					],
+					[
+						"gulp",
+						"gulpfile.js"
+					],
+					[
+						"varia",
+						"src/assets/sass/partials/_variables.scss"
+					],
+					[
+						"start",
+						"src/assets/sass/partials/_start.scss"
+					],
+					[
+						"sprite_",
+						"src/assets/sass/partials/_sprite_template.scss"
+					],
+					[
+						"mixins",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"icons.sc",
+						"src/assets/sass/partials/_icons.scss"
+					],
+					[
+						"iconmoo",
+						"src/assets/sass/partials/_iconmoon.scss"
+					],
+					[
+						"font.sc",
+						"src/assets/sass/partials/_fonts.scss"
+					],
+					[
+						"style.sc",
+						"src/assets/sass/style.scss"
+					],
+					[
+						"main",
+						"src/assets/js/main.js"
+					],
+					[
+						"inde",
+						"src/index.html"
 					],
 					[
 						"end",
 						"src/templates/end.html"
 					],
 					[
-						"inde",
-						"src/index.html"
+						"head",
+						"src/templates/head.html"
+					],
+					[
+						"style.s",
+						"style.scss"
+					],
+					[
+						"stle",
+						"style.css"
 					],
 					[
 						"_mix",
@@ -2095,14 +2288,6 @@
 						"src/index.html"
 					],
 					[
-						"head",
-						"src/templates/head.html"
-					],
-					[
-						"gulp",
-						"gulpfile.js"
-					],
-					[
 						"header.sc",
 						"src/assets/header/header.scss"
 					],
@@ -2119,16 +2304,8 @@
 						"node_modules/glob-watcher/test/main.js"
 					],
 					[
-						"ind",
-						"src/index.html"
-					],
-					[
 						"inde.",
 						"build/index.html"
-					],
-					[
-						"main",
-						"src/assets/js/main.js"
 					],
 					[
 						"styl",
@@ -2141,10 +2318,6 @@
 					[
 						"",
 						"src/index.html"
-					],
-					[
-						"style.",
-						"src/assets/sass/style.scss"
 					],
 					[
 						"boots",
@@ -2271,12 +2444,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 204.0,
+			"side_bar_width": 259.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 135,
+			"window_id": 137,
 			"workspace_name": ""
 		}
 	],

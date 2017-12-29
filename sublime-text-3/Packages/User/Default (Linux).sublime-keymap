@@ -7,7 +7,7 @@
   { "keys": ["alt+."], "command": "close" }, // close tab
   { "keys": ["alt+shift+."], "command": "close_all" },// close all tabs
   { "keys": [""], "command": "close_tag" }, 
-  { "keys": ["alt+right"], "command": "next_view" }, // next tab
+  { "keys": ["alt+right"], "command": "next_view" },// next tab
   { "keys": ["alt+left"], "command": "prev_view" }, // prev tab
 
   /*================== Indent ===========================*/
@@ -19,8 +19,8 @@
   { "keys": ["ctrl+shift+l"], "command": "split_selection_into_lines" }, // multiselect end of line in selection
   { "keys": ["alt+j"], "command": "find_under_expand" },// expand
   { "keys": ["ctrl+alt+shift+j"], "command": "find_under_expand_skip" }, // skip expand
-  { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "indentation"} }, // select between tags
-  { "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "tag"} }, // select between tags
+  { "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} }, // select between tags
+  { "keys": ["ctrl+shift+a"], "command": "expand_selection", "args": {"to": "tag"} }, // select between tags
   //select outword
   {"keys": ["ctrl+,"], "args": {"action": "balance_outward"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.balance_outward"} ] },
   //select inword
@@ -86,7 +86,7 @@
   {"keys": ["ctrl+up"], "args": {"action": "increment_number_by_1"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.increment_number_by_1"} ] }, 
   {"keys": ["shift+alt+up"], "args": {"action": "increment_number_by_10"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.increment_number_by_10"} ] },
   /*================== Terminal===========================*/
-  {"keys": ["ctrl+shift+alt+t"], "command": "new_file", "context": [{"key": "setting.terminal_view"}]},
+  
 ]
 
 
