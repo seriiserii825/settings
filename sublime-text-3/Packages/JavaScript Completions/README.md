@@ -1,4 +1,42 @@
-<h1>JavaScript Completions</h1>
+<h1>🎉🎉 ANNOUNCEMENT - NEW PLUGIN "JavaScript Enhancements" RELEASED 🎉🎉</h1>
+
+<p>
+
+I developed a new plugin with new features thanks to <strong><a href="https://github.com/facebook/flow">Flow</a></strong> (javascript static type checker from Facebook).
+<strong>So, I will NO LONGER SUPPORT "JavaScript Completions" plugin, except in particular cases. I'm going to focus only on this new one!</strong>
+
+You can find it on: 👉👉 <a href="https://github.com/pichillilorenzo/JavaScriptEnhancements">https://github.com/pichillilorenzo/JavaScriptEnhancements</a> 👈👈
+
+This new plugin offers not only a <strong>better autocomplete</strong> but a lot of <strong>features</strong> about creating, 
+developing and managing <strong>javascript projects</strong>, such as:
+
+- Cordova projects (run cordova emulate, build, compile, serve, etc. directly from Sublime Text!)
+- Ionic v1 and v2 projects (same as Cordova projects!)
+- Angular v1 and v2 projects
+- React projects
+- Express projects
+- Yeoman generators
+- Local bookmarks project
+- JavaScript real-time errors
+- etc.
+
+You could use it also in <strong>existing projects</strong>!! (see the Wiki - https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki)
+
+It will turn Sublime Text into a <strong>JavaScript IDE</strong> like!
+
+<h3>OS SUPPORTED NOW by this new plugin</h3>
+
+- Linux (64-bit)
+- Mac OS X 
+
+Email me for any questions or doubts about this new project on: <a href="mailto:pichillilorenzo@gmail.com">pichillilorenzo@gmail.com</a>
+
+Thanks for your support!!!
+</p>
+
+<hr>
+
+<h2>JavaScript Completions</h2>
 
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-2%20%2F%203-brightgreen.svg)](https://www.sublimetext.com/)
 [![Package Control](https://img.shields.io/packagecontrol/dt/JavaScript%20Completions.svg)](https://packagecontrol.io/packages/JavaScript%20Completions) 
@@ -7,41 +45,6 @@
 JavaScript Completions for sublime text
 
 It helps you to write your scripts more quickly with hints and completions.
-
-<h2>Announcement</h2>
-<p>
-
-I'm developing a new plugin with new features thanks to <strong><a href="https://github.com/facebook/flow">Flow</a></strong> (javascript static type checker from Facebook).
-With it I can implement other <strong>features</strong> and there will be a better <strong>autocomplete</strong>
-(<strong style="text-decoration: underline;">smart autocomplete based on the current context</strong>).
-
-This is in <strong>Beta version</strong> and I published it on another github repository:
-
-<a href="https://github.com/pichillilorenzo/JavaScriptEnhancements">https://github.com/pichillilorenzo/JavaScriptEnhancements</a>
-
-This new plugin will offer not only a better autocomplete but a lot of features about creating, 
-developing and managing javascript projects, such as:
-
-- Cordova projects (run Cordova emulator, build, compile, serve Cordova projects, add plugins and available platforms, the ability to install local version of Cordova in the project, etc … directly on Sublime Text!)
-- Ionic projects (same as Cordova projects!)
-- Angular projects
-- Node.js projects
-- Local bookmarks project
-- Show javascript errors with Flow
-- etc, etc …
-
-It will turn Sublime Text into a <strong>JavaScript IDE</strong> like!
-
-It isn’t ready for public testing and there isn’t a documentation at the moment!
-
-<strong>WATCH</strong> the repository to stay tuned for any news!
-
-Email me for any questions or doubts about this new project on: <a href="mailto:pichillilorenzo@gmail.com">pichillilorenzo@gmail.com</a>
-
-Thanks for your support!!!
-</p>
-
-<hr>
 
 <strong>jQuery</strong> and <strong>NativeScript</strong> completions disabled by default!
 You can enable them on Preferences -> Package Settings -> JavaScript Completions.

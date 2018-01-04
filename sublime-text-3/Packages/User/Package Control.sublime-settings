@@ -33,9 +33,11 @@
 		"SCSS",
 		"SCSS Expander",
 		"SCSS Snippets",
+		"SCSS Snippets Complete",
 		"SideBarEnhancements",
 		"SublimeLinter-csslint",
 		"SyncedSideBar",
+		"TerminalView",
 		"Theme - Afterglow"
 	]
 }
