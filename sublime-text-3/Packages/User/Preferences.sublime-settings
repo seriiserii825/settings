@@ -10,7 +10,7 @@
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"draw_minimap_border": true,
 	"font_face": "Ubuntu",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -22,7 +22,7 @@
 	"save_on_focus_lost": true,
 	"scroll_speed": 4.0,
 	"show_encoding": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Afterglow.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

@@ -55,22 +55,6 @@
   { "keys": ["f4"], "command": "next_result" },// next result
   { "keys": ["shift+f4"], "command": "prev_result" },//prev result
   { "keys": ["ctrl+alt+shift+;"], "command": "show_panel", "args": {"panel": "incremental_find", "reverse": false} },
-
-  /*================== Folding ===========================*/
-  { "keys": ["ctrl+shift+["], "command": "fold" },
-  { "keys": ["ctrl+shift+]"], "command": "unfold" },
-  { "keys": ["ctrl+k", "ctrl+1"], "command": "fold_by_level", "args": {"level": 1} },
-  { "keys": ["ctrl+k", "ctrl+2"], "command": "fold_by_level", "args": {"level": 2} },
-  { "keys": ["ctrl+k", "ctrl+3"], "command": "fold_by_level", "args": {"level": 3} },
-  { "keys": ["ctrl+k", "ctrl+4"], "command": "fold_by_level", "args": {"level": 4} },
-  { "keys": ["ctrl+k", "ctrl+5"], "command": "fold_by_level", "args": {"level": 5} },
-  { "keys": ["ctrl+k", "ctrl+6"], "command": "fold_by_level", "args": {"level": 6} },
-  { "keys": ["ctrl+k", "ctrl+7"], "command": "fold_by_level", "args": {"level": 7} },
-  { "keys": ["ctrl+k", "ctrl+8"], "command": "fold_by_level", "args": {"level": 8} },
-  { "keys": ["ctrl+k", "ctrl+9"], "command": "fold_by_level", "args": {"level": 9} },
-  { "keys": ["ctrl+k", "ctrl+0"], "command": "unfold_all" },
-  { "keys": ["ctrl+k", "ctrl+j"], "command": "unfold_all" },
-  { "keys": ["ctrl+k", "ctrl+t"], "command": "fold_tag_attributes" },
   
   /*================== Easy Motion ===========================*/
   {"keys": ["ctrl+i", "<character>"], "command": "easy_motion", "args": {"select_text": false} },
@@ -86,6 +70,16 @@
   {"keys": ["ctrl+up"], "args": {"action": "increment_number_by_1"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.increment_number_by_1"} ] }, 
   {"keys": ["shift+alt+up"], "args": {"action": "increment_number_by_10"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.increment_number_by_10"} ] },
   /*================== Terminal===========================*/
+
+  { "keys": ["ctrl+alt+1"], "command": "fold_by_level", "args": {"level": 1} },
+  { "keys": ["ctrl+alt+2"], "command": "fold_by_level", "args": {"level": 2} },
+  { "keys": ["ctrl+alt+3"], "command": "fold_by_level", "args": {"level": 3} },
+  { "keys": ["ctrl+alt+4"], "command": "fold_by_level", "args": {"level": 4} },
+  { "keys": ["ctrl+alt+5"], "command": "fold_by_level", "args": {"level": 5} },
+  { "keys": ["ctrl+alt+6"], "command": "fold_by_level", "args": {"level": 6} },
+  { "keys": ["ctrl+alt+7"], "command": "fold_by_level", "args": {"level": 7} },
+  { "keys": ["ctrl+alt+8"], "command": "fold_by_level", "args": {"level": 8} },
+  { "keys": ["ctrl+alt+9"], "command": "fold_by_level", "args": {"level": 9} },
   
 ]
 
