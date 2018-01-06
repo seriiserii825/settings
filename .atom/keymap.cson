@@ -31,10 +31,14 @@
 # Atom Flight Manual:
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#configuring-with-cson
 'body':
-  'alt-]': 'pane:show-next-item'
-  'alt-[': 'pane:show-previous-item'
+  'alt-right': 'pane:show-next-item'
+  'alt-left': 'pane:show-previous-item'
   'alt-.': 'core:close'
 
-'	atom-workspace atom-text-editor':
+'	atom-workspace':
+  'alt-q': 'move-to-previous-subword-boundary'
+  'alt-shift+q': 'move-to-previous-subword-boundary'
+
+'	atom-text-editor':
   'alt-q': 'move-to-previous-subword-boundary'
   'alt-shift+q': 'move-to-previous-subword-boundary'
