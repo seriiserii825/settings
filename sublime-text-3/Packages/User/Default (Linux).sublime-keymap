@@ -22,7 +22,7 @@
   { "keys": ["ctrl+shift+j"], "command": "expand_selection", "args": {"to": "indentation"} }, // select between tags
   { "keys": [""], "command": "expand_selection", "args": {"to": "line"} },
   { "keys": ["ctrl+l"], "command": "expand_selection", "args": {"to": "tag"} }, // select between tags
-  {"keys": ["ctrl+shift+l"], "args": {"action": "balance_inward"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.balance_inward"} ] },
+  {"keys": ["ctrl+alt+shift+l"], "args": {"action": "balance_inward"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.balance_inward"} ] },
   //select outword
   {"keys": ["ctrl+,"], "args": {"action": "balance_outward"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.balance_outward"} ] },
   //select tag or class

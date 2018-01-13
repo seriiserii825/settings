@@ -1,8 +1,8 @@
 {
 	"folder_history":
 	[
-		"/var/www/transcargo.loc",
 		"/var/www/test.loc",
+		"/var/www/transcargo.loc",
 		"/var/www/start-template.loc",
 		"/home/serii/Документы/virtualbox",
 		"/home/serii/Загрузки/flex-site.loc",
@@ -25,17 +25,113 @@
 		"/var/www/test.site/public_html"
 	],
 	"last_version": 3143,
-	"last_window_id": 158,
+	"last_window_id": 169,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 536.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"disable",
+						"disable\t(): void NativeScript - Module trace"
+					],
+					[
+						"addEve",
+						"addEventListener\t( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean ): any NativeScript - XMLHttpRequestEventTarget"
+					],
+					[
+						"query",
+						"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+					],
+					[
+						"current",
+						"currentColor"
+					],
+					[
+						"nextEle",
+						"nextElement"
+					],
+					[
+						"next",
+						"nextColor"
+					],
+					[
+						"nextElemen",
+						"nextElementArr[1"
+					],
+					[
+						"nextELement",
+						"nextElementSibling\t: Element Element"
+					],
+					[
+						"nextE",
+						"nextElementAttr"
+					],
+					[
+						"getElem",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+					],
+					[
+						"show",
+						"showBlock"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"previ",
+						"previousElementSibling\t: Element Element"
+					],
+					[
+						"getELe",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"getELeme",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+					],
+					[
+						"le",
+						"length\t: int String"
+					],
+					[
+						"thi",
+						"thirdElement"
+					],
+					[
+						"back",
+						"backgroundColor"
+					],
+					[
+						"cha",
+						"changeColor"
+					],
+					[
+						"queryS",
+						"querySelector\t( selectors: DOMString ): Element Element"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"che",
+						"checkAge"
+					],
+					[
+						"getTo",
+						"getTotalDist"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
 					[
 						"lg",
 						"lg\tlg-media"
@@ -169,10 +265,6 @@
 						"removeClass\t.removeClass()"
 					],
 					[
-						"add",
-						"addClass\t.addClass()"
-					],
-					[
 						"mouselea",
 						"mouseleave"
 					],
@@ -213,10 +305,6 @@
 						"option\tTag"
 					],
 					[
-						"back",
-						"background\t Style CSS"
-					],
-					[
 						"toL",
 						"toLocaleDateString\t(): string Date"
 					],
@@ -233,24 +321,84 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "key",
+				"last_filter": "ke",
 				"selected_items":
 				[
 					[
-						"key",
+						"ke",
 						"Preferences: Key Bindings"
+					],
+					[
+						"termin",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"packge",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"term",
-						"Terminal View: Open Bash Terminal"
+						"pref",
+						"Preferences: Settings"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"p",
+						"Preferences: Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"git stat",
+						"git: status"
+					],
+					[
+						"keybin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"ky",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
 					],
 					[
 						"remo",
@@ -279,10 +427,6 @@
 					[
 						"termina",
 						"Preferences: Terminal View: Readme"
-					],
-					[
-						"ky",
-						"FindKeyConflicts: All Conflicts"
 					],
 					[
 						"keycon",
@@ -321,10 +465,6 @@
 						"Preferences: Settings"
 					],
 					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
 						"gulp",
 						"Gulp: Run last task"
 					],
@@ -333,16 +473,8 @@
 						"git: log"
 					],
 					[
-						"git stat",
-						"git: status"
-					],
-					[
 						"run las",
 						"Gulp: Run last task"
-					],
-					[
-						"termin",
-						"Terminal View: Open Bash Terminal"
 					],
 					[
 						"run last",
@@ -421,14 +553,6 @@
 						"Local History: Menu"
 					],
 					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"gist",
-						"Gist: Insert Gist"
-					],
-					[
 						"findk",
 						"FindKeyConflicts: All Key Maps to Quick Panel"
 					],
@@ -442,10 +566,6 @@
 					],
 					[
 						"prefe",
-						"Preferences: Key Bindings"
-					],
-					[
-						"ke",
 						"Preferences: Key Bindings"
 					],
 					[
@@ -493,10 +613,6 @@
 						"Preferences: Settings"
 					],
 					[
-						"pref",
-						"Preferences: Settings"
-					],
-					[
 						"pack",
 						"Preferences: Browse Packages"
 					],
@@ -510,10 +626,6 @@
 					],
 					[
 						"disal",
-						"Package Control: Disable Package"
-					],
-					[
-						"disab",
 						"Package Control: Disable Package"
 					],
 					[
@@ -662,6 +774,14 @@
 			},
 			"file_history":
 			[
+				"/home/serii/settings/sublime-text-3/Packages/User/css_style_completions.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+				"/var/www/test.loc/style.css",
+				"/home/serii/settings/sublime-text-3/Packages/User/Emmet.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/tmp/isnumeric",
+				"/var/www/transcargo.loc/src/templates/head.html",
+				"/var/www/transcargo.loc/src/assets/header/header.scss",
 				"/home/serii/Settings/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
 				"/var/www/transcargo.loc/src/home.html",
 				"/home/serii/Settings/sublime-text-3/Packages/User/md-media.sublime-snippet",
@@ -698,7 +818,6 @@
 				"/var/www/start-template.loc/src/templates/head.html",
 				"/home/serii/Документы/virtualbox/hat.svg",
 				"/var/www/test.loc/index.html",
-				"/var/www/test.loc/style.css",
 				"/var/www/test.loc/style.scss",
 				"/var/www/test.loc/Gulp Results",
 				"/var/www/test.loc/src/templates/head.html",
@@ -728,7 +847,6 @@
 				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
 				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/var/www/test.loc/test.loc.todo",
-				"/tmp/isnumeric",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
 				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
@@ -783,17 +901,11 @@
 				"/home/serii/.config/sublime-text-3/Packages/User/swi.sublime-settings",
 				"/home/serii/.config/sublime-text-3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
 				"/home/serii/.config/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap",
-				"/var/www/test.site/public_html/style.css",
-				"/home/serii/.config/sublime-text-3/Packages/Web Inspector/Default (Linux).sublime-keymap",
-				"/var/www/test.site/public/package.json",
-				"/home/serii/.config/sublime-text-3/Packages/Restart/Restart.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/EasyMotion/EasyMotion.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/EasyMotion/README.md"
+				"/var/www/test.site/public_html/style.css"
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -807,6 +919,27 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"10",
+					"20",
+					"80",
+					"30",
+					"value",
+					"red",
+					"Color",
+					"Click me",
+					"\"js-btn",
+					");\n",
+					"\">",
+					">",
+					"data-target",
+					"=\"catalog\"",
+					"getElementsByTagName",
+					"img",
+					"-block",
+					"width",
+					"';\n",
+					"thirdElement",
+					"querySelector"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -823,13 +956,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 28.0
 			},
 			"input":
 			{
 				"height": 52.0
 			},
 			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
 			"output.GitSavvy":
 			{
 				"height": 128.0
@@ -865,7 +1002,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -875,12 +1012,20 @@
 				"selected_items":
 				[
 					[
-						"mix",
-						"src/assets/sass/partials/_mixins.scss"
+						"style.",
+						"style.css"
 					],
 					[
-						"vari",
-						"src/assets/sass/partials/_variables.scss"
+						"style",
+						"style.css"
+					],
+					[
+						"scri",
+						"script.js"
+					],
+					[
+						"index",
+						"src/index.html"
 					],
 					[
 						"header",
@@ -889,6 +1034,14 @@
 					[
 						"head",
 						"src/templates/head.html"
+					],
+					[
+						"mix",
+						"src/assets/sass/partials/_mixins.scss"
+					],
+					[
+						"vari",
+						"src/assets/sass/partials/_variables.scss"
 					],
 					[
 						"home.sc",
@@ -948,10 +1101,6 @@
 					],
 					[
 						"style.sc",
-						"src/assets/sass/style.scss"
-					],
-					[
-						"style.",
 						"src/assets/sass/style.scss"
 					],
 					[
@@ -1015,16 +1164,8 @@
 						"src/assets/sass/style.scss"
 					],
 					[
-						"index",
-						"src/index.html"
-					],
-					[
 						"header.sc",
 						"src/assets/header/header.scss"
-					],
-					[
-						"style",
-						"src/assets/sass/style.scss"
 					],
 					[
 						"gulpfi",
@@ -1107,10 +1248,6 @@
 						"public_html/script.js"
 					],
 					[
-						"scri",
-						"public_html/script.js"
-					],
-					[
 						"scritp",
 						"public_html/script.js"
 					],
@@ -1162,14 +1299,14 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 262.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -1178,6 +1315,102 @@
 			{
 				"selected_items":
 				[
+					[
+						"disable",
+						"disable\t(): void NativeScript - Module trace"
+					],
+					[
+						"addEve",
+						"addEventListener\t( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean ): any NativeScript - XMLHttpRequestEventTarget"
+					],
+					[
+						"query",
+						"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+					],
+					[
+						"current",
+						"currentColor"
+					],
+					[
+						"nextEle",
+						"nextElement"
+					],
+					[
+						"next",
+						"nextColor"
+					],
+					[
+						"nextElemen",
+						"nextElementArr[1"
+					],
+					[
+						"nextELement",
+						"nextElementSibling\t: Element Element"
+					],
+					[
+						"nextE",
+						"nextElementAttr"
+					],
+					[
+						"getElem",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+					],
+					[
+						"show",
+						"showBlock"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"previ",
+						"previousElementSibling\t: Element Element"
+					],
+					[
+						"getELe",
+						"getElementById\t( elementId: DOMString ): Element Document"
+					],
+					[
+						"getELeme",
+						"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+					],
+					[
+						"le",
+						"length\t: int String"
+					],
+					[
+						"thi",
+						"thirdElement"
+					],
+					[
+						"back",
+						"backgroundColor"
+					],
+					[
+						"cha",
+						"changeColor"
+					],
+					[
+						"queryS",
+						"querySelector\t( selectors: DOMString ): Element Element"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"che",
+						"checkAge"
+					],
+					[
+						"getTo",
+						"getTotalDist"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
 					[
 						"lg",
 						"lg\tlg-media"
@@ -1311,10 +1544,6 @@
 						"removeClass\t.removeClass()"
 					],
 					[
-						"add",
-						"addClass\t.addClass()"
-					],
-					[
 						"mouselea",
 						"mouseleave"
 					],
@@ -1355,10 +1584,6 @@
 						"option\tTag"
 					],
 					[
-						"back",
-						"background\t Style CSS"
-					],
-					[
 						"toL",
 						"toLocaleDateString\t(): string Date"
 					],
@@ -1371,19 +1596,29 @@
 			"buffers":
 			[
 				{
-					"file": "/var/www/transcargo.loc/src/templates/head.html",
+					"file": "/var/www/test.loc/index.html",
 					"settings":
 					{
-						"buffer_size": 5890,
+						"buffer_size": 423,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/var/www/transcargo.loc/src/assets/header/header.scss",
+					"file": "/var/www/test.loc/script.js",
 					"settings":
 					{
-						"buffer_size": 5423,
+						"buffer_size": 344,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/var/www/test.loc/style.css",
+					"settings":
+					{
+						"buffer_size": 346,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -1395,20 +1630,20 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "key",
+				"height": 342.0,
+				"last_filter": "findkey",
 				"selected_items":
 				[
 					[
-						"key",
+						"findkey",
+						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"ke",
 						"Preferences: Key Bindings"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"term",
+						"termin",
 						"Terminal View: Open Bash Terminal"
 					],
 					[
@@ -1416,12 +1651,72 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"remo",
+						"packge",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
 						"Package Control: Remove Package"
 					],
 					[
-						"findkey",
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"p",
+						"Preferences: Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"git stat",
+						"git: status"
+					],
+					[
+						"keybin",
+						"Preferences: Key Bindings"
+					],
+					[
+						"ky",
 						"FindKeyConflicts: All Conflicts"
+					],
+					[
+						"term",
+						"Terminal View: Open Bash Terminal"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"keyb",
@@ -1442,10 +1737,6 @@
 					[
 						"termina",
 						"Preferences: Terminal View: Readme"
-					],
-					[
-						"ky",
-						"FindKeyConflicts: All Conflicts"
 					],
 					[
 						"keycon",
@@ -1484,10 +1775,6 @@
 						"Preferences: Settings"
 					],
 					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
 						"gulp",
 						"Gulp: Run last task"
 					],
@@ -1496,16 +1783,8 @@
 						"git: log"
 					],
 					[
-						"git stat",
-						"git: status"
-					],
-					[
 						"run las",
 						"Gulp: Run last task"
-					],
-					[
-						"termin",
-						"Terminal View: Open Bash Terminal"
 					],
 					[
 						"run last",
@@ -1584,14 +1863,6 @@
 						"Local History: Menu"
 					],
 					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"gist",
-						"Gist: Insert Gist"
-					],
-					[
 						"findk",
 						"FindKeyConflicts: All Key Maps to Quick Panel"
 					],
@@ -1605,10 +1876,6 @@
 					],
 					[
 						"prefe",
-						"Preferences: Key Bindings"
-					],
-					[
-						"ke",
 						"Preferences: Key Bindings"
 					],
 					[
@@ -1656,10 +1923,6 @@
 						"Preferences: Settings"
 					],
 					[
-						"pref",
-						"Preferences: Settings"
-					],
-					[
 						"pack",
 						"Preferences: Browse Packages"
 					],
@@ -1673,10 +1936,6 @@
 					],
 					[
 						"disal",
-						"Package Control: Disable Package"
-					],
-					[
-						"disab",
 						"Package Control: Disable Package"
 					],
 					[
@@ -1825,14 +2084,19 @@
 			},
 			"expanded_folders":
 			[
-				"/var/www/transcargo.loc",
-				"/var/www/transcargo.loc/src",
-				"/var/www/transcargo.loc/src/assets",
-				"/var/www/transcargo.loc/src/assets/header",
-				"/var/www/transcargo.loc/src/templates"
+				"/var/www/test.loc"
 			],
 			"file_history":
 			[
+				"/var/www/test.loc/README.txt",
+				"/home/serii/settings/sublime-text-3/Packages/User/css_style_completions.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+				"/var/www/test.loc/style.css",
+				"/home/serii/settings/sublime-text-3/Packages/User/Emmet.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+				"/tmp/isnumeric",
+				"/var/www/transcargo.loc/src/templates/head.html",
+				"/var/www/transcargo.loc/src/assets/header/header.scss",
 				"/home/serii/Settings/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
 				"/var/www/transcargo.loc/src/home.html",
 				"/home/serii/Settings/sublime-text-3/Packages/User/md-media.sublime-snippet",
@@ -1869,7 +2133,6 @@
 				"/var/www/start-template.loc/src/templates/head.html",
 				"/home/serii/Документы/virtualbox/hat.svg",
 				"/var/www/test.loc/index.html",
-				"/var/www/test.loc/style.css",
 				"/var/www/test.loc/style.scss",
 				"/var/www/test.loc/Gulp Results",
 				"/var/www/test.loc/src/templates/head.html",
@@ -1899,7 +2162,6 @@
 				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
 				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/var/www/test.loc/test.loc.todo",
-				"/tmp/isnumeric",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
 				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
@@ -1953,18 +2215,11 @@
 				"/home/serii/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/serii/.config/sublime-text-3/Packages/User/swi.sublime-settings",
 				"/home/serii/.config/sublime-text-3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap",
-				"/var/www/test.site/public_html/style.css",
-				"/home/serii/.config/sublime-text-3/Packages/Web Inspector/Default (Linux).sublime-keymap",
-				"/var/www/test.site/public/package.json",
-				"/home/serii/.config/sublime-text-3/Packages/Restart/Restart.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/EasyMotion/EasyMotion.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/EasyMotion/README.md"
+				"/home/serii/.config/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -1978,6 +2233,27 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"10",
+					"20",
+					"80",
+					"30",
+					"value",
+					"red",
+					"Color",
+					"Click me",
+					"\"js-btn",
+					");\n",
+					"\">",
+					">",
+					"data-target",
+					"=\"catalog\"",
+					"getElementsByTagName",
+					"img",
+					"-block",
+					"width",
+					"';\n",
+					"thirdElement",
+					"querySelector"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1995,30 +2271,30 @@
 			"folders":
 			[
 				{
-					"path": "/var/www/transcargo.loc"
+					"path": "/var/www/test.loc"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/var/www/transcargo.loc/src/templates/head.html",
+							"file": "/var/www/test.loc/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5890,
+								"buffer_size": 423,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2808,
-										2808
+										292,
+										292
 									]
 								],
 								"settings":
@@ -2043,36 +2319,6 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -2083,21 +2329,51 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -2105,8 +2381,8 @@
 										{
 											"1":
 											[
-												2819,
-												2820
+												292,
+												293
 											]
 										},
 										"icon":
@@ -2121,8 +2397,8 @@
 										{
 											"1":
 											[
-												2791,
-												2792
+												290,
+												291
 											]
 										},
 										"unmatched":
@@ -2131,6 +2407,21 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -2141,89 +2432,144 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
-									"bs_sintax": "html",
-									"buffer_scroll_name": "132bce01",
-									"git_savvy.repo_path": "/var/www/transcargo.loc",
-									"spell_check": false,
+									"easy_motion_mode": false,
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1071.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/var/www/transcargo.loc/src/assets/header/header.scss",
+							"file": "/var/www/test.loc/script.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5423,
+								"buffer_size": 344,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										343,
+										341
 									]
 								],
 								"settings":
 								{
 									"apply_syntax_touched": true,
 									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone": 15,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
 									"bracket_highlighter.locations":
 									{
 										"close":
@@ -2241,6 +2587,21 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -2251,66 +2612,239 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/var/www/test.loc/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 346,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										285,
+										285
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
-									"bs_sintax": "scss",
-									"buffer_scroll_name": "1a13985e",
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												309,
+												310
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												285,
+												286
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/Afterglow.tmTheme",
-									"git_savvy.repo_path": "/var/www/transcargo.loc",
-									"spell_check": false,
-									"syntax": "Packages/SCSS/SCSS.tmLanguage",
-									"tab_size": 2,
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1426.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -2318,7 +2852,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -2347,6 +2881,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
 			"output.GitSavvy":
 			{
 				"height": 128.0
@@ -2384,7 +2922,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2393,6 +2931,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"style.",
+						"style.css"
+					],
+					[
+						"style",
+						"style.css"
+					],
+					[
+						"scri",
+						"script.js"
+					],
+					[
+						"index",
+						"src/index.html"
+					],
 					[
 						"header",
 						"src/assets/header/header.scss"
@@ -2470,10 +3024,6 @@
 						"src/assets/sass/style.scss"
 					],
 					[
-						"style.",
-						"src/assets/sass/style.scss"
-					],
-					[
 						"ind",
 						"src/index.html"
 					],
@@ -2534,16 +3084,8 @@
 						"src/assets/sass/style.scss"
 					],
 					[
-						"index",
-						"src/index.html"
-					],
-					[
 						"header.sc",
 						"src/assets/header/header.scss"
-					],
-					[
-						"style",
-						"src/assets/sass/style.scss"
 					],
 					[
 						"gulpfi",
@@ -2626,10 +3168,6 @@
 						"public_html/script.js"
 					],
 					[
-						"scri",
-						"public_html/script.js"
-					],
-					[
 						"scritp",
 						"public_html/script.js"
 					],
@@ -2691,7 +3229,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 158,
+			"window_id": 161,
 			"workspace_name": ""
 		}
 	],
@@ -2699,6 +3237,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/var/www/transcargo.loc/transcargo.sublime-workspace"
 		]
 	}
 }
