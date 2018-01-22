@@ -89,7 +89,22 @@ zstyle ':completion:*' menu select
 bindkey "^[[A"  history-beginning-search-backward
 bindkey "^[[B"  history-beginning-search-forward
 
+
+bindkey "^[OB" down-line-or-search
+bindkey "^[OC" forward-char
+bindkey "^[OD" backward-char
+bindkey "^[OF" end-of-line
+bindkey "^[OH" beginning-of-line
+bindkey "^[[1~" beginning-of-line
+bindkey "^[[3~" delete-char
+bindkey "^[[4~" end-of-line
+bindkey "^[[5~" up-line-or-history
+bindkey "^[[6~" down-line-or-history
+bindkey "^?" backward-delete-char
+
 alias du='du -h --max-depth=1 | sort -h'
+alias phpr='service apache2 reload'
+alias o='xdg-open'
 alias ll='ls -la'
 
 # переименование-перемещение c пogтвepжgeнueм без коррекции 
@@ -121,6 +136,12 @@ alias -g xpaste='xclip -selection clipboard -o'
 
 #next
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+#export NVM_DIR=~/.nvm
+#[ -s $NVM_DIR/nvm.sh ] && . $NVM_DIR/nvm.sh
 
 
 
