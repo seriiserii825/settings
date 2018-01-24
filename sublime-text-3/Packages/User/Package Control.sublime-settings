@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AceJump",
 		"All Autocomplete",
 		"ApplySyntax",
 		"AutoFileName",
@@ -13,7 +14,6 @@
 		"CSS Snippets",
 		"Delete Lines",
 		"DocBlockr",
-		"EasyMotion",
 		"Emmet",
 		"FileDiffs",
 		"FindKeyConflicts",
