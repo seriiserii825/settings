@@ -1,8 +1,8 @@
 {
 	"folder_history":
 	[
-		"/var/www/portfolio.loc",
 		"/var/www/start-template.loc",
+		"/var/www/portfolio.loc",
 		"/home/serii/Downloads/start-template.loc",
 		"/var/www/design-group.loc",
 		"/var/www/transcargo.loc",
@@ -28,7 +28,7 @@
 		"/var/www/test.site/public_html"
 	],
 	"last_version": 3143,
-	"last_window_id": 183,
+	"last_window_id": 185,
 	"log_indexing": false,
 	"settings":
 	{
@@ -323,10 +323,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "settings",
+				"height": 172.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
 					[
 						"settings",
 						"Preferences: Settings"
@@ -422,10 +426,6 @@
 					[
 						"remo",
 						"Package Control: Remove Package"
-					],
-					[
-						"keybi",
-						"Preferences: Key Bindings"
 					],
 					[
 						"all",
@@ -997,6 +997,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"head.ht",
+						"src/templates/head.html"
+					],
 					[
 						"index.",
 						"src/index.html"
@@ -1594,19 +1598,18 @@
 			"buffers":
 			[
 				{
-					"file": "/var/www/portfolio.loc/gulpfile.js",
+					"file": "gulpfile.js",
 					"settings":
 					{
-						"buffer_size": 10816,
-						"encoding": "UTF-8",
+						"buffer_size": 10702,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/var/www/portfolio.loc/src/index.html",
+					"file": "src/index.html",
 					"settings":
 					{
-						"buffer_size": 14919,
+						"buffer_size": 289,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1619,10 +1622,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "settings",
+				"height": 172.0,
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
 					[
 						"settings",
 						"Preferences: Settings"
@@ -1718,10 +1725,6 @@
 					[
 						"remo",
 						"Package Control: Remove Package"
-					],
-					[
-						"keybi",
-						"Preferences: Key Bindings"
 					],
 					[
 						"all",
@@ -2077,8 +2080,8 @@
 			},
 			"expanded_folders":
 			[
-				"/var/www/portfolio.loc",
-				"/var/www/portfolio.loc/src"
+				"/var/www/start-template.loc",
+				"/var/www/start-template.loc/src"
 			],
 			"file_history":
 			[
@@ -2241,12 +2244,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/var/www/portfolio.loc"
-				}
-			],
 			"groups":
 			[
 				{
@@ -2255,19 +2252,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/var/www/portfolio.loc/gulpfile.js",
+							"file": "gulpfile.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10816,
+								"buffer_size": 10702,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3457,
-										3457
+										1621,
+										1621
 									]
 								],
 								"settings":
@@ -2279,12 +2276,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												1933,
+												1934
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												1586,
+												1587
+											]
 										},
 										"unmatched":
 										{
@@ -2292,31 +2304,21 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -2327,16 +2329,6 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -2346,14 +2338,34 @@
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
 									],
 									"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1547.0,
+								"translation.y": 57.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -2361,24 +2373,26 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/var/www/portfolio.loc/src/index.html",
+							"file": "src/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 14919,
+								"buffer_size": 289,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6109,
-										6109
+										255,
+										255
 									]
 								],
 								"settings":
 								{
+									"always_show_minimap_viewport": true,
 									"apply_syntax_touched": true,
+									"auto_indent": true,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
 									"bracket_highlighter.clone_locations":
@@ -2398,41 +2412,41 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -2448,11 +2462,11 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -2471,68 +2485,97 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
-										"bh_c_define_content"
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
 									],
+									"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+									"detect_indentation": true,
+									"draw_centered": false,
+									"draw_minimap_border": true,
+									"draw_white_space": "selection",
+									"font_face": "Ubuntu Mono",
+									"font_options":
+									[
+									],
+									"gutter": true,
+									"highlight_line": true,
+									"indent_subsequent_lines": true,
+									"line_numbers": true,
+									"line_padding_bottom": 0,
+									"line_padding_top": 2,
+									"match_brackets": true,
+									"match_brackets_angle": false,
+									"match_brackets_braces": true,
+									"match_brackets_content": true,
+									"match_brackets_square": true,
+									"rulers":
+									[
+									],
+									"scroll_past_end": true,
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_automatic_white_space": true,
+									"trim_trailing_white_space_on_save": false,
+									"use_tab_stops": true,
+									"word_wrap": "auto",
+									"wrap_width": 0
 								},
 								"translation.x": 0.0,
-								"translation.y": 1995.0,
+								"translation.y": 37.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2610,7 +2653,7 @@
 			},
 			"pinned_build_system": "",
 			"position": "0,1,0,0,0,0,0,0,0,1440,900",
-			"project": "",
+			"project": "start-template.sublime-project",
 			"replace":
 			{
 				"height": 50.0
@@ -2625,6 +2668,14 @@
 					[
 						"index.",
 						"src/index.html"
+					],
+					[
+						"gul",
+						"gulpfile.js"
+					],
+					[
+						"head.ht",
+						"src/templates/head.html"
 					],
 					[
 						"gull",
@@ -2932,14 +2983,16 @@
 			"template_settings":
 			{
 			},
-			"window_id": 182,
-			"workspace_name": ""
+			"window_id": 185,
+			"workspace_name": "/var/www/start-template.loc/start-template.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/var/www/start-template.loc/start-template.sublime-workspace",
+			"/var/www/portfolio.loc/portfolio.sublime-workspace",
 			"/home/serii/Downloads/start-template.loc/start-template.sublime-workspace",
 			"/var/www/transcargo.loc/transcargo.sublime-workspace"
 		]
