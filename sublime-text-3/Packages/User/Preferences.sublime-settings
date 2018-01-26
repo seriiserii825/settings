@@ -40,7 +40,11 @@
 		"фреймворков",
 		"фреймворком",
 		"Yii2",
-		"фрилансе"
+		"фрилансе",
+		"www",
+		"btn",
+		"bg",
+		"px"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,

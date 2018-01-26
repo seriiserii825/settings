@@ -103,6 +103,16 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
+alias Install="sudo apt-get install"
+alias Update='sudo apt-get update'
+alias Upgrade='sudo apt-get upgrade'
+alias Search='apt-cache search'
+alias Autoremove='sudo apt-get autoremove'
+alias Autoclean='sudo apt-get autoclean'
+alias Purge='sudo apt-get remove –purge'
+alias cp="cp -v"
+alias mv="mv -v"
+alias rm="rm -iv"
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'

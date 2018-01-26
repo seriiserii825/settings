@@ -1,6 +1,6 @@
 {
     // Characters to be used as labels in order they'll appear
-    "labels": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ<>",
+    "labels": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ<>'\"<",
 
     // Syntax highlighting scope for the labels
     "labels_scope": "invalid",
