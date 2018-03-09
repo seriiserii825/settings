@@ -44,7 +44,9 @@
 		"www",
 		"btn",
 		"bg",
-		"px"
+		"px",
+		"ctrl",
+		"f11"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,

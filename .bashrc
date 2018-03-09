@@ -120,6 +120,7 @@ alias o='xdg-open'
 alias df='df -h'
 alias du='du -h'
 alias shn="sudo shutdown -h now"
+alias srn="sudo reboot"
 alias out='pastebinit'
 alias phpr="sudo /etc/init.d/apache2 restart"
 
