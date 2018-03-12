@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AceJump",
 		"All Autocomplete",
 		"ApplySyntax",
@@ -21,6 +22,7 @@
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
+		"Material Theme",
 		"MoveTab",
 		"Package Control",
 		"SCSS",
