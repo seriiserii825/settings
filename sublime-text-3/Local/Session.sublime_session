@@ -1719,6 +1719,15 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/var/www/start-template.loc/src/index.html",
+					"settings":
+					{
+						"buffer_size": 51,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -2365,8 +2374,37 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/var/www/start-template.loc/src/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 51,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										51,
+										51
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -2442,7 +2480,7 @@
 				"height": 128.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,25,1440,874,1440,900",
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
 			"project": "",
 			"replace":
 			{
@@ -2455,6 +2493,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"index",
+						"src/index.html"
+					],
 					[
 						"variables.sc",
 						"src/assets/sass/partials/_variables.scss"
@@ -2570,10 +2612,6 @@
 					[
 						"scri",
 						"script.js"
-					],
-					[
-						"index",
-						"src/index.html"
 					],
 					[
 						"header",
