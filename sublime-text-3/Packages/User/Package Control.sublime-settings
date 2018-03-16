@@ -7,6 +7,7 @@
 	[
 		"A File Icon",
 		"AceJump",
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
 		"AutoFileName",
@@ -18,9 +19,11 @@
 		"Delete Lines",
 		"DocBlockr",
 		"Emmet",
+		"Expand Selection to Quotes",
 		"FileDiffs",
 		"FindKeyConflicts",
 		"Gist",
+		"Git",
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
@@ -32,10 +35,16 @@
 		"SCSS Snippets",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Sync Settings",
 		"SyncedSideBar",
-		"TerminalView",
-		"Theme - Afterglow"
+		"Terminal",
+		"Theme - Afterglow",
+		"WordPress",
+		"WordPress Code Reference",
+		"WordPress Completions",
+		"WordPress Developer Resources"
 	]
 }

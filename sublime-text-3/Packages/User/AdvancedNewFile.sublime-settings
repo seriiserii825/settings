@@ -1,0 +1,31 @@
+{
+    // A boolean defining if cursor text should be used. Text bound by single or
+    // double quotes or within a region will be used. If multiple cursors
+    // are used, the earliest selection containing a region or existing
+    // within quotes will be used.
+    // NOTE: A value read from cursor will override the default
+    // initial string setting.
+    "use_cursor_text": true,
+
+    // A boolean value specifying if regular files should be included in the auto
+    // complete options.
+    "show_files": true,
+
+    // A boolean specifying if the file path being created should be displayed in
+    // the status bar.
+    "show_path": true,
+
+    // A boolean specifying if folders should automatically refresh and update the sidebar.
+    // In some builds, the sidebar does not refresh when contents of project folder are updated.
+    // This setting is required to refresh the sidebar in these circumstances.
+    // false by default
+    "auto_refresh_sidebar": true,
+
+    // A string specifying the type of auto completion to use. Valid values are
+    // "windows" or "nix"
+    "completion_type": "nix",
+
+    // If a warning should be displayed when trying to overwrite an existing file using
+    // the move command.
+    "warn_overwrite_on_move": true,
+}

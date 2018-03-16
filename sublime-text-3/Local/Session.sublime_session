@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/var/www/wp_cleanmag.loc/wp-content/themes/theme1",
+		"/var/www/wp_fashion.loc",
+		"/var/www/wp_cleanmag.loc",
 		"/var/www/start-template.loc",
 		"/var/www/portfolio.loc",
 		"/var/www/delicious.loc",
@@ -30,7 +33,7 @@
 		"/var/www/test.site/public_html"
 	],
 	"last_version": 3143,
-	"last_window_id": 197,
+	"last_window_id": 227,
 	"log_indexing": false,
 	"settings":
 	{
@@ -41,6 +44,94 @@
 			{
 				"selected_items":
 				[
+					[
+						"the_p",
+						"the_permalink"
+					],
+					[
+						"teh",
+						"theloop\tThe Loop"
+					],
+					[
+						"blog",
+						"bloginfo\t(footer.php)"
+					],
+					[
+						"end",
+						"endif\t(index.php)"
+					],
+					[
+						"the",
+						"the_permalink"
+					],
+					[
+						"the_post_",
+						"the_post_thumbnail"
+					],
+					[
+						"add_them",
+						"add_theme_support"
+					],
+					[
+						"register_nav",
+						"register_nav_menu"
+					],
+					[
+						"WP_qu",
+						"WP_Query\tWP Class Name"
+					],
+					[
+						"WP",
+						"WP_Query\tNew WP_Query Class"
+					],
+					[
+						"register",
+						"register_sidebar\tregister_sidebar All Options"
+					],
+					[
+						"wp_",
+						"wp_enqueue_scripts\tenqueue_scripts"
+					],
+					[
+						"style",
+						"style.css\t(index.php)"
+					],
+					[
+						"jq",
+						"jqFancyTransitions.1.8.min.js\t(index.php)"
+					],
+					[
+						"j",
+						"jquery-1.10.1.min.js\t(index.php)"
+					],
+					[
+						"wp_en",
+						"wp_enqueue_script\tenqueue_script"
+					],
+					[
+						"previous_o",
+						"previous_post_link"
+					],
+					[
+						"els",
+						"else"
+					],
+					[
+						"has_post",
+						"has_post_thumbnail"
+					],
+					[
+						"set_post",
+						"set_post_thumbnail_size"
+					],
+					[
+						"get_he",
+						"get_header"
+					],
+					[
+						"get_tempate_di",
+						"get_template_directory_uri"
+					],
 					[
 						"icon",
 						"icon-check-order\t(head.html)"
@@ -358,20 +449,188 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "key",
+				"last_filter": "install",
 				"selected_items":
 				[
-					[
-						"key",
-						"Preferences: Key Bindings"
-					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"uplo",
+						"Sync Settings: Upload"
+					],
+					[
+						"snip",
+						"Snippet: loop"
+					],
+					[
+						"wordpress",
+						"WordPress Developer: Search from Input"
+					],
+					[
 						"install ",
-						"Install Package Control"
+						"Package Control: Install Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"sni",
+						"Snippet: loop"
+					],
+					[
+						"snippet",
+						"Snippet: loop"
+					],
+					[
+						"termina",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"dise",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"downl",
+						"Sync Settings: Download"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add All"
+					],
+					[
+						"downlo",
+						"Sync Settings: Download"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"t",
+						"Terminal: Open in project folder"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"uploa",
+						"Sync Settings: Create and Upload"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"upload",
+						"Sync Settings: Upload"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"git branch",
+						"git: branch"
+					],
+					[
+						"gitlo",
+						"git: log"
+					],
+					[
+						"commi",
+						"git: commit"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Add All"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"sync",
+						"Sync Settings: Upload"
+					],
+					[
+						"opengi",
+						"Gist: Open Gist"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
 					],
 					[
 						"bash",
@@ -380,14 +639,6 @@
 					[
 						"termin",
 						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"ke",
-						"Preferences: Key Bindings"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"temr",
@@ -400,14 +651,6 @@
 					[
 						"settings",
 						"Preferences: Settings"
-					],
-					[
-						"terminal",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"keybi",
-						"Preferences: Key Bindings"
 					],
 					[
 						"remove pack",
@@ -430,20 +673,8 @@
 						"Preferences: Settings"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"packge",
 						"Package Control: List Packages"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"pref",
-						"Preferences: Settings"
 					],
 					[
 						"enable",
@@ -454,20 +685,12 @@
 						"Package Control: Disable Package"
 					],
 					[
-						"gist",
-						"Gist: Open Gist"
-					],
-					[
 						"p",
 						"Preferences: Settings"
 					],
 					[
 						"prefere",
 						"Preferences: Settings"
-					],
-					[
-						"git stat",
-						"git: status"
 					],
 					[
 						"ky",
@@ -486,10 +709,6 @@
 						"FindKeyConflicts: All Conflicts"
 					],
 					[
-						"termina",
-						"Preferences: Terminal View: Readme"
-					],
-					[
 						"keycon",
 						"FindKeyConflicts: All Conflicts"
 					],
@@ -498,20 +717,8 @@
 						"Terminal View: Open Bash Terminal"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
 						"git commi",
 						"git: commit"
-					],
-					[
-						"git push",
-						"git: push"
-					],
-					[
-						"git status",
-						"git: status"
 					],
 					[
 						"gulp",
@@ -562,16 +769,8 @@
 						"git: status"
 					],
 					[
-						"status",
-						"git: status"
-					],
-					[
 						"git bra",
 						"git: branch"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"local",
@@ -706,16 +905,8 @@
 						"Package Control: Install Package"
 					],
 					[
-						"git commit",
-						"Git: Commit history"
-					],
-					[
 						"git commit hi",
 						"Git: Commit history"
-					],
-					[
-						"git",
-						"Git: Push"
 					],
 					[
 						"web",
@@ -728,14 +919,6 @@
 					[
 						"git hi",
 						"Github: History"
-					],
-					[
-						"git comm",
-						"Git: Commit"
-					],
-					[
-						"git add",
-						"Git: Add..."
 					],
 					[
 						"git com",
@@ -780,26 +963,6 @@
 					[
 						"instlall",
 						"Package Control: Install Local Dependency"
-					],
-					[
-						"package list",
-						"Package Control: List Packages"
-					],
-					[
-						"setting",
-						"Preferences: Settings"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
-					],
-					[
-						"s",
-						"SassBeautify"
-					],
-					[
-						"sass ",
-						"SassBeautify"
 					]
 				],
 				"width": 585.0
@@ -823,6 +986,51 @@
 			},
 			"file_history":
 			[
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/style.css",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/index.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/category.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/page.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/sidebar.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/footer.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/header.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/functions.php",
+				"/home/serii/settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/var/www/wp_fashion.loc/wp-includes/general-template.php",
+				"/home/serii/courses/wordpress-master/Source-part2/portfolio-site/index.html",
+				"/home/serii/settings/sublime-text-3/Packages/User/loop.sublime-snippet",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/header.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/footer.php",
+				"/home/serii/settings/sublime-text-3/Packages/User/php-custom.sublime-snippet",
+				"/var/www/wp_cleanmag.loc/wp-config.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/sidebar.php",
+				"/var/www/wp_cleanmag.loc/.htaccess",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/404.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/page.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/comments.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/twentyfifteen/style.css",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/index.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/search.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/style.css",
+				"/home/serii/settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/var/www/wp_cleanmag.loc/COMMIT_EDITMSG.COMMIT_EDITMSG",
+				"/home/serii/settings/sublime-text-3/Packages/Git/Git.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Git.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/AceJump/Default (Linux).sublime-keymap",
+				"/home/serii/settings/sublime-text-3/Packages/User/AceJump.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/AceJump/AceJump.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/SyncSettings.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+				"/tmp/home.html",
+				"/home/serii/settings/sublime-text-3/Packages/Sync Settings/SyncSettings.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/test2.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/test.php",
+				"/home/serii/settings/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+				"/var/www/start-template.loc/src/assets/less/partials/_fonts.less",
 				"/var/www/delicious.loc/src/templates/head.html",
 				"/var/www/delicious.loc/src/assets/sass/partials/_variables.scss",
 				"/var/www/delicious.loc/src/assets/header/header.scss",
@@ -840,7 +1048,6 @@
 				"/var/www/test.loc/Chapter 2/02_01/start/execs.html",
 				"/var/www/test.loc/Chapter 1/01_02/execs.html",
 				"/var/www/test.loc/index.html",
-				"/home/serii/settings/sublime-text-3/Packages/User/AceJump.sublime-settings",
 				"/var/www/design-group.loc/gulpfile.js",
 				"/var/www/test.loc/style.css",
 				"/var/www/test.loc/README.txt",
@@ -906,55 +1113,11 @@
 				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/serii/Загрузки/flex-site.loc/build/index.html",
-				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
-				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
-				"/tmp/mail.php",
-				"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
-				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/var/www/test.loc/test.loc.todo",
-				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
-				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
-				"/home/serii/Settings/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/User/BufferScroll.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/BufferScroll/BufferScroll.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/Default.sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/Inc-Dec-Value/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/hotkeys-sublime.txt",
-				"/home/serii/Settings/sublime-text-3/Packages/User/CSScomb.sublime-settings",
-				"/var/www/test.loc/.csscomb.json",
-				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/README.md",
-				"/var/www/test.loc/build/assets/css/style.css",
-				"/var/www/test.loc/build/assets/js/main.js",
-				"/var/www/test.loc/package.json",
-				"/home/serii/Settings/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/var/www/test.loc/src/assets/sass/bootstrap_skin.scss",
-				"/home/serii/Settings/sublime-text-3/Packages/zzz A File Icon zzz/patches/general/multi/Default.sublime-theme",
-				"/var/www/stepantev.loc/index.html",
-				"/home/serii/Downloads/branches/README.txt",
-				"/home/serii/.config/sublime-text-3/.sublime/Local History/var/www/stepantev.loc/index-20171123154210.html",
-				"/home/serii/.config/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
-				"/var/www/test.site/labs/lab-3-2.html",
-				"/var/www/test.site/module-3/demo-3-2.html",
-				"/var/www/test.site/module-3/demo-3-1.html",
-				"/var/www/test.site/labs/lab-3-1.html",
-				"/var/www/test.site/labs/lab-2-2.html",
-				"/var/www/test.site/js/lab-1.js",
-				"/var/www/test.site/module-2/demo-2-3.html",
-				"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
-				"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings"
+				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -968,6 +1131,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"align",
+					"a.active",
+					"=>",
+					"have_posts",
+					"<?php bloginfo( 'template_url' ) ?>/images/small/",
+					"\")",
+					"(\"",
+					"css/"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -988,7 +1159,7 @@
 			},
 			"input":
 			{
-				"height": 52.0
+				"height": 65.0
 			},
 			"menu_visible": true,
 			"output.CSS Extended Completions":
@@ -1044,16 +1215,100 @@
 				"selected_items":
 				[
 					[
+						"style",
+						"wp-content/themes/themes1/style.css"
+					],
+					[
+						"exh",
+						"wp-content/themes/themes1/exhibitions.html"
+					],
+					[
+						"ind",
+						"wp-content/themes/themes1/index.php"
+					],
+					[
+						"style.",
+						"wp-content/themes/themes1/style.css"
+					],
+					[
+						"about",
+						"wp-content/themes/themes1/about.html"
+					],
+					[
+						"sidebar",
+						"wp-content/themes/themes1/sidebar.php"
+					],
+					[
+						"page",
+						"wp-content/themes/themes1/page.php"
+					],
+					[
+						"index",
+						"wp-content/themes/themes1/index.php"
+					],
+					[
+						"header",
+						"wp-content/themes/themes1/header.php"
+					],
+					[
+						"footer",
+						"wp-content/themes/themes1/footer.php"
+					],
+					[
+						"funcions",
+						"wp-content/themes/themes1/functions.php"
+					],
+					[
+						"style.css",
+						"wp-content/themes/themes1/style.css"
+					],
+					[
+						"footer.php",
+						"wp-content/themes/theme1/footer.php"
+					],
+					[
+						"functins",
+						"wp-content/themes/theme1/functions.php"
+					],
+					[
+						"wp-conf",
+						"wp-config.php"
+					],
+					[
+						"index.php",
+						"wp-content/themes/theme1/index.php"
+					],
+					[
+						"wp-config",
+						"wp-config.php"
+					],
+					[
+						".ht",
+						".htaccess"
+					],
+					[
+						"sinl",
+						"wp-content/themes/theme1/single.php"
+					],
+					[
+						"search.php",
+						"wp-content/themes/theme1/search.php"
+					],
+					[
+						"index.",
+						"wp-content/themes/theme1/index.php"
+					],
+					[
+						"_fo",
+						"src/assets/less/partials/_fonts.less"
+					],
+					[
 						"_fon",
 						"src/assets/less/partials/_fonts.less"
 					],
 					[
 						"head",
 						"src/templates/head.html"
-					],
-					[
-						"index",
-						"src/index.html"
 					],
 					[
 						"variables.sc",
@@ -1100,10 +1355,6 @@
 						"src/templates/end.html"
 					],
 					[
-						"ind",
-						"src/index.html"
-					],
-					[
 						"sc",
 						"script.js"
 					],
@@ -1126,10 +1377,6 @@
 					[
 						"inde",
 						"index.html"
-					],
-					[
-						"index.",
-						"src/index.html"
 					],
 					[
 						"gull",
@@ -1156,20 +1403,8 @@
 						"src/assets/sass/style.scss"
 					],
 					[
-						"style.",
-						"style.css"
-					],
-					[
-						"style",
-						"style.css"
-					],
-					[
 						"scri",
 						"script.js"
-					],
-					[
-						"header",
-						"src/assets/header/header.scss"
 					],
 					[
 						"mix",
@@ -1388,7 +1623,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 294.0,
+			"side_bar_width": 239.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1403,6 +1638,94 @@
 			{
 				"selected_items":
 				[
+					[
+						"the_p",
+						"the_permalink"
+					],
+					[
+						"teh",
+						"theloop\tThe Loop"
+					],
+					[
+						"blog",
+						"bloginfo\t(footer.php)"
+					],
+					[
+						"end",
+						"endif\t(index.php)"
+					],
+					[
+						"the",
+						"the_permalink"
+					],
+					[
+						"the_post_",
+						"the_post_thumbnail"
+					],
+					[
+						"add_them",
+						"add_theme_support"
+					],
+					[
+						"register_nav",
+						"register_nav_menu"
+					],
+					[
+						"WP_qu",
+						"WP_Query\tWP Class Name"
+					],
+					[
+						"WP",
+						"WP_Query\tNew WP_Query Class"
+					],
+					[
+						"register",
+						"register_sidebar\tregister_sidebar All Options"
+					],
+					[
+						"wp_",
+						"wp_enqueue_scripts\tenqueue_scripts"
+					],
+					[
+						"style",
+						"style.css\t(index.php)"
+					],
+					[
+						"jq",
+						"jqFancyTransitions.1.8.min.js\t(index.php)"
+					],
+					[
+						"j",
+						"jquery-1.10.1.min.js\t(index.php)"
+					],
+					[
+						"wp_en",
+						"wp_enqueue_script\tenqueue_script"
+					],
+					[
+						"previous_o",
+						"previous_post_link"
+					],
+					[
+						"els",
+						"else"
+					],
+					[
+						"has_post",
+						"has_post_thumbnail"
+					],
+					[
+						"set_post",
+						"set_post_thumbnail_size"
+					],
+					[
+						"get_he",
+						"get_header"
+					],
+					[
+						"get_tempate_di",
+						"get_template_directory_uri"
+					],
 					[
 						"icon",
 						"icon-check-order\t(head.html)"
@@ -1716,30 +2039,25 @@
 			"buffers":
 			[
 				{
-					"file": "/var/www/start-template.loc/src/index.html",
+					"file": "/var/www/wp_fashion.loc/wp-content/themes/themes1/single.php",
 					"settings":
 					{
-						"buffer_size": 51,
+						"buffer_size": 576,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/var/www/start-template.loc/src/templates/head.html",
+					"contents": "/*\nTheme Name: Theme1\nTheme URI: http://wp_fashion.loc/\nAuthor: serii\nAuthor URI: http://wp_fashion.loc/\nDescription: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.\nVersion: 1.0\nLicense: GNU General Public License v2 or later\nLicense URI: http://www.gnu.org/licenses/gpl-2.0.html\nTags: blog, two-columns, left-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready\nText Domain: twentyfifteen\n\nThis theme, like WordPress, is licensed under the GPL.\nUse it to make something cool, have fun, and share what you've learned with others.\n*/\n\n*{\n\tpadding:0; margin:0;\n}\nhtml{\n\tbackground:#000 url(images/html-bg.png) right top no-repeat; height:100%;\n}\nbody{\n\theight:auto!important;\n\theight:100%;\n\tmin-height:100%;\n\t/* IE9 SVG, needs conditional override of 'filter' to 'none'*/\n\tbackground: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE1MTUxNSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjM2JSIgc3RvcC1jb2xvcj0iIzE1MTUxNSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU2JSIgc3RvcC1jb2xvcj0iIzE1MTUxNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxNTE1MTUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);\n\tbackground: -moz-linear-gradient(top,  rgba(21,21,21,0) 0%, rgba(21,21,21,0) 730px, rgba(21,21,21,1) 830px, rgba(21,21,21,1) 100%); /* FF3.6+ */\n\tbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(21,21,21,0)), color-stop(730px,rgba(21,21,21,0)), color-stop(830px,rgba(21,21,21,1)), color-stop(100%,rgba(21,21,21,1))); /* Chrome,Safari4+ */\n\tbackground: -webkit-linear-gradient(top,  rgba(21,21,21,0) 0%,rgba(21,21,21,0) 730px,rgba(21,21,21,1) 830px,rgba(21,21,21,1) 100%); /* Chrome10+,Safari5.1+ */\n\tbackground: -o-linear-gradient(top,  rgba(21,21,21,0) 0%,rgba(21,21,21,0) 730px,rgba(21,21,21,1) 830px,rgba(21,21,21,1) 100%); /* Opera 11.10+ */\n\tbackground: -ms-linear-gradient(top,  rgba(21,21,21,0) 0%,rgba(21,21,21,0) 730px,rgba(21,21,21,1) 830px,rgba(21,21,21,1) 100%); /* IE10+ */\n\tbackground: linear-gradient(to bottom,  rgba(21,21,21,0) 0%,rgba(21,21,21,0) 730px,rgba(21,21,21,1) 830px,rgba(21,21,21,1) 100%); /* W3C */\n\tfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00151515', endColorstr='#151515',GradientType=0 ); /* IE6-8 */\n\n\tfont-family:Arial, Helvetica, sans-serif;\n\tline-height:1.5;\n}\n.clearfix{\n\tclear:both;\n}\nimg{\n\tborder:0;\n}\na{\n\ttext-decoration:none;\n}\na:hover{\n\ttext-decoration:underline;\n}\nh1,h2,h3,h4,h5,h6{\n\tfont-weight:normal;\n}\n.karkas{\n\twidth:960px; margin:0 auto;\n}\n\t.header{\n\t\tmargin:0 0 20px 0;\n\t}\n\t.logo{\n\t\tmargin:190px 0 0 20px;\n\t}\n\t.menu{\n\t\toverflow:hidden; margin:230px 0 0 0; list-style:none; background:rgba(0,0,0,0.6);\n\t}\n\t\t.menu li{\n\t\t\tfloat:left; font-size:17px; margin:10px 10px 0 10px; line-height:1;\n\t\t}\n\t\t.menu li:first-child{\n\t\t\tfloat:left; font-size:17px; margin:10px 10px 0 0; line-height:1;\n\t\t}\n\t\t.menu li a{\n\t\t\tcolor:#f3f3f3; text-transform:uppercase; padding:10px 15px 20px 15px; display:block;\n\t\t\ttransition: all .5s ease;\n\t\t}\n\t\t.menu li a:hover {\n\t\t\ttext-decoration: none;\n\t\t\tbackground:#232323; border-radius:5px 5px 0 0;\n\t\t}\n\t\t.current-menu-item a{\n\t\t\tbackground:#232323; border-radius:5px 5px 0 0;\n\t\t}\n.content-main{\n\tcolor:#565656; font-size:13px; overflow: hidden; padding:20px 0;margin-bottom: 40px;\n}\n\n\n.content-main.single{\n\tpadding: 20px 10px;\n\tcolor: #aaa;\n\tbackground: rgba(0,0,0,.4);\n\tbox-shadow: 0 4px 20px -5px rgba(0,0,0,.4);\n\tborder-radius: 4px;\n}\n\n.content-main a{\n\tcolor:#777;\n}\n.content-main p{\n\tmargin-bottom:20px;\n}\n.content-main h1{\n\tcolor:#dbdada; font-size:17px; border-bottom:1px solid #dbdbdb; margin-bottom:20px; padding-bottom:5px;\n}\n\t.content-main h1 a{\n\t\tcolor:#dbdada;\n\t}\n.content-main img{\n\tborder:2px solid #151515; margin:0 0 20px 0; display:block;\n}\n\t.content-main-bocks{\n\t\toverflow:hidden;\n\t}\n\t\t.content-main-bocks div{\n\t\t\tfloat:left; width:277px; margin:0 21px;\n\t\t}\n\t\t.read-more{\n\t\t\tcolor:#000!important; font-size:11px; font-weight:bold; padding:3px 7px; background:#444;\n\t\t}\n.footer-wrapper{\n\tbackground:#080808;\n}\n\t.footer-main{\n\t\twidth:960px; margin:0 auto; overflow:hidden; padding:20px 0;\n\t}\n\t\t.footer-left{\n\t\t\tfloat:left;\n\t\t}\n\t\t\t.footer-left img{\n\t\t\t\tfloat:left;\n\t\t\t}\n\t\t\t.footer-left p{\n\t\t\t\tfloat:left; color:#fefcfc; font-size:14px; padding:14px 0 0 10px;\n\t\t\t}\n\t\t\t.footer-left p a{\n\t\t\t\tcolor:#fefcfc;\n\t\t\t}\n\t\t.footer-right{\n\t\t\tfloat:right; margin:10px 0 0 0;\n\t\t}\n\n\t\t.footer-right a{\n\t\t\tdisplay: inline-block;\n\t\t}\n\t\t\t.footer-right img{\n\t\t\t\tmargin: 0 10px;\n\t\t\t}\n\n/*\t\tExhibitions page\t*/\n.ex-place, .ex-date, .ex-ticket{\n\tpadding:0 0 0 35px;\n}\n.ex-place{\n\tbackground:url(images/ex-place.jpg) no-repeat left 50%;\n}\n.ex-date{\n\tbackground:url(images/ex-date.jpg) no-repeat left 50%;\n}\n.ex-ticket{\n\tbackground:url(images/ex-ticket.jpg) no-repeat left 50%;\n}\n\n/*\t\tABOUT page\t\t*/\n\n.content-left{\n\tfloat:left; width:607px; padding:0 20px 0 10px;\n}\n.sidebar{\n\tfloat:right; width: 283px; padding:0 20px;\n}\n.img-left{\n\tfloat:left; margin:0 20px 0 0 !important;\n}\n\n/*\t\tCONTACT page\t*/\n\n.contact-form{\n}\n\t.contact-form p{\n\t\tfont-size:17px; color:#565656;\n\t}\n\t.contact-form label{\n\t\twidth:150px; display:block; float:left;\n\t}\n\t.contact-form input[type=text]{\n\t\twidth:300px; padding:6px 20px; background:rgba(0,0,0,0.6); border:1px solid rgba(0,0,0,0.6); color:#fff; font-size:17px; border-radius:10px;\n\t}\n\t.contact-form textarea{\n\t\twidth:410px; height:150px; padding:6px 20px; background:rgba(0,0,0,0.6); border:1px solid rgba(0,0,0,0.6); color:#fff; font-size:17px; border-radius:10px;\n\t}\n\tinput:focus{\n\t\tborder:1px solid #484848!important; outline:none;\n\t}\n\ttextarea:focus{\n\t\tborder:1px solid #484848!important; outline:none;\n\t}\n.contact-address, .contact-phone, .contact-mail, .contact-liciense{\n\tpadding:0 0 0 30px;\n}\n\t.contact-address{\n\t\tbackground:url(images/ex-place.jpg) 0 50% no-repeat;\n\t}\n\t.contact-phone{\n\t\tbackground:url(images/contact-phone.jpg) 0 50% no-repeat;\n\t}\n\t.contact-mail{\n\t\tbackground:url(images/contact-mail.jpg) 0 50% no-repeat;\n\t}\n\t.contact-liciense{\n\t\tbackground:url(images/contact-licensia.jpg) 0 50% no-repeat;\n\t}\n\n/*\t\tPORTFOLIO page\t*/\n\n.portfolio-image{\n\tfloat:left; margin:0 0 30px 0;\n}\n.portfolio-image:nth-child(2n){\n\tfloat:right;\n}\n\n/**\n * 8.0 Alignments\n */\n\n.alignleft {\n\tdisplay: inline;\n\tfloat: left;\n}\n\n.alignright {\n\tdisplay: inline;\n\tfloat: right;\n}\n\n.aligncenter {\n\tdisplay: block;\n\tmargin-right: auto;\n\tmargin-left: auto;\n}\n\nblockquote.alignleft,\n.wp-caption.alignleft,\nimg.alignleft {\n\tmargin: 0.4em 1.6em 1.6em 0;\n}\n\nblockquote.alignright,\n.wp-caption.alignright,\nimg.alignright {\n\tmargin: 0.4em 0 1.6em 1.6em;\n}\n\nblockquote.aligncenter,\n.wp-caption.aligncenter,\nimg.aligncenter {\n\tclear: both;\n\tmargin-top: 0.4em;\n\tmargin-bottom: 1.6em;\n}\n\n.wp-caption.alignleft,\n.wp-caption.alignright,\n.wp-caption.aligncenter {\n\tmargin-bottom: 1.2em;\n}",
+					"file": "/var/www/wp_fashion.loc/wp-content/themes/themes1/style.css",
+					"file_size": 8026,
+					"file_write_time": 131656936922702047,
 					"settings":
 					{
-						"buffer_size": 651,
+						"buffer_size": 7760,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/start-template.loc/src/assets/less/partials/_fonts.less",
-					"settings":
-					{
-						"buffer_size": 927,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
+						"line_ending": "Windows",
+						"scratch": true
 					}
 				}
 			],
@@ -1750,7 +2068,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 296.0,
+				"height": 354.0,
 				"last_filter": "install",
 				"selected_items":
 				[
@@ -1759,16 +2077,180 @@
 						"Package Control: Install Package"
 					],
 					[
-						"insta",
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"uplo",
+						"Sync Settings: Upload"
+					],
+					[
+						"snip",
+						"Snippet: loop"
+					],
+					[
+						"wordpress",
+						"WordPress Developer: Search from Input"
+					],
+					[
+						"install ",
 						"Package Control: Install Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"sni",
+						"Snippet: loop"
+					],
+					[
+						"snippet",
+						"Snippet: loop"
+					],
+					[
+						"termina",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"dise",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings"
 					],
 					[
 						"key",
 						"Preferences: Key Bindings"
 					],
 					[
-						"install ",
-						"Install Package Control"
+						"downl",
+						"Sync Settings: Download"
+					],
+					[
+						"keybi",
+						"Preferences: Key Bindings"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add All"
+					],
+					[
+						"downlo",
+						"Sync Settings: Download"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"t",
+						"Terminal: Open in project folder"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"uploa",
+						"Sync Settings: Create and Upload"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"upload",
+						"Sync Settings: Upload"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"git branch",
+						"git: branch"
+					],
+					[
+						"gitlo",
+						"git: log"
+					],
+					[
+						"commi",
+						"git: commit"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Add All"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"sync",
+						"Sync Settings: Upload"
+					],
+					[
+						"opengi",
+						"Gist: Open Gist"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
 					],
 					[
 						"bash",
@@ -1777,10 +2259,6 @@
 					[
 						"termin",
 						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"ke",
-						"Preferences: Key Bindings"
 					],
 					[
 						"temr",
@@ -1793,14 +2271,6 @@
 					[
 						"settings",
 						"Preferences: Settings"
-					],
-					[
-						"terminal",
-						"Terminal View: Open Bash Terminal"
-					],
-					[
-						"keybi",
-						"Preferences: Key Bindings"
 					],
 					[
 						"remove pack",
@@ -1823,20 +2293,8 @@
 						"Preferences: Settings"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"packge",
 						"Package Control: List Packages"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"pref",
-						"Preferences: Settings"
 					],
 					[
 						"enable",
@@ -1847,20 +2305,12 @@
 						"Package Control: Disable Package"
 					],
 					[
-						"gist",
-						"Gist: Open Gist"
-					],
-					[
 						"p",
 						"Preferences: Settings"
 					],
 					[
 						"prefere",
 						"Preferences: Settings"
-					],
-					[
-						"git stat",
-						"git: status"
 					],
 					[
 						"ky",
@@ -1879,10 +2329,6 @@
 						"FindKeyConflicts: All Conflicts"
 					],
 					[
-						"termina",
-						"Preferences: Terminal View: Readme"
-					],
-					[
 						"keycon",
 						"FindKeyConflicts: All Conflicts"
 					],
@@ -1891,20 +2337,8 @@
 						"Terminal View: Open Bash Terminal"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
 						"git commi",
 						"git: commit"
-					],
-					[
-						"git push",
-						"git: push"
-					],
-					[
-						"git status",
-						"git: status"
 					],
 					[
 						"gulp",
@@ -1955,16 +2389,8 @@
 						"git: status"
 					],
 					[
-						"status",
-						"git: status"
-					],
-					[
 						"git bra",
 						"git: branch"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"local",
@@ -2099,16 +2525,8 @@
 						"Package Control: Install Package"
 					],
 					[
-						"git commit",
-						"Git: Commit history"
-					],
-					[
 						"git commit hi",
 						"Git: Commit history"
-					],
-					[
-						"git",
-						"Git: Push"
 					],
 					[
 						"web",
@@ -2121,14 +2539,6 @@
 					[
 						"git hi",
 						"Github: History"
-					],
-					[
-						"git comm",
-						"Git: Commit"
-					],
-					[
-						"git add",
-						"Git: Add..."
 					],
 					[
 						"git com",
@@ -2173,26 +2583,6 @@
 					[
 						"instlall",
 						"Package Control: Install Local Dependency"
-					],
-					[
-						"package list",
-						"Package Control: List Packages"
-					],
-					[
-						"setting",
-						"Preferences: Settings"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
-					],
-					[
-						"s",
-						"SassBeautify"
-					],
-					[
-						"sass ",
-						"SassBeautify"
 					]
 				],
 				"width": 585.0
@@ -2216,15 +2606,58 @@
 			},
 			"expanded_folders":
 			[
-				"/var/www/start-template.loc",
-				"/var/www/start-template.loc/src",
-				"/var/www/start-template.loc/src/assets",
-				"/var/www/start-template.loc/src/assets/less",
-				"/var/www/start-template.loc/src/assets/less/partials",
-				"/var/www/start-template.loc/src/templates"
+				"/var/www/wp_fashion.loc",
+				"/var/www/wp_fashion.loc/wp-content",
+				"/var/www/wp_fashion.loc/wp-content/themes",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1",
+				"/var/www/wp_fashion.loc/wp-content/themes/twentyfifteen"
 			],
 			"file_history":
 			[
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/style.css",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/index.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/category.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/page.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/sidebar.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/footer.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/header.php",
+				"/var/www/wp_fashion.loc/wp-content/themes/themes1/functions.php",
+				"/home/serii/settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/var/www/wp_fashion.loc/wp-includes/general-template.php",
+				"/home/serii/courses/wordpress-master/Source-part2/portfolio-site/index.html",
+				"/home/serii/settings/sublime-text-3/Packages/User/loop.sublime-snippet",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/header.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/footer.php",
+				"/home/serii/settings/sublime-text-3/Packages/User/php-custom.sublime-snippet",
+				"/var/www/wp_cleanmag.loc/wp-config.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/sidebar.php",
+				"/var/www/wp_cleanmag.loc/.htaccess",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/404.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/page.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/comments.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/twentyfifteen/style.css",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/index.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/search.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/style.css",
+				"/home/serii/settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+				"/var/www/wp_cleanmag.loc/COMMIT_EDITMSG.COMMIT_EDITMSG",
+				"/home/serii/settings/sublime-text-3/Packages/Git/Git.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Git.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/AceJump/Default (Linux).sublime-keymap",
+				"/home/serii/settings/sublime-text-3/Packages/User/AceJump.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/AceJump/AceJump.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/SyncSettings.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+				"/tmp/home.html",
+				"/home/serii/settings/sublime-text-3/Packages/Sync Settings/SyncSettings.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/serii/settings/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/test2.php",
+				"/var/www/wp_cleanmag.loc/wp-content/themes/theme1/test.php",
+				"/home/serii/settings/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
 				"/var/www/start-template.loc/src/assets/less/partials/_fonts.less",
 				"/var/www/delicious.loc/src/templates/head.html",
 				"/var/www/delicious.loc/src/assets/sass/partials/_variables.scss",
@@ -2243,7 +2676,6 @@
 				"/var/www/test.loc/Chapter 2/02_01/start/execs.html",
 				"/var/www/test.loc/Chapter 1/01_02/execs.html",
 				"/var/www/test.loc/index.html",
-				"/home/serii/settings/sublime-text-3/Packages/User/AceJump.sublime-settings",
 				"/var/www/design-group.loc/gulpfile.js",
 				"/var/www/test.loc/style.css",
 				"/var/www/test.loc/README.txt",
@@ -2309,50 +2741,7 @@
 				"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
 				"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/serii/Загрузки/flex-site.loc/build/index.html",
-				"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
-				"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
-				"/tmp/mail.php",
-				"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
-				"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/var/www/test.loc/test.loc.todo",
-				"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
-				"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
-				"/home/serii/Settings/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/User/BufferScroll.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/BufferScroll/BufferScroll.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/Default.sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/Inc-Dec-Value/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap",
-				"/home/serii/Settings/hotkeys-sublime.txt",
-				"/home/serii/Settings/sublime-text-3/Packages/User/CSScomb.sublime-settings",
-				"/var/www/test.loc/.csscomb.json",
-				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
-				"/home/serii/Settings/sublime-text-3/Packages/CSScomb/README.md",
-				"/var/www/test.loc/build/assets/css/style.css",
-				"/var/www/test.loc/build/assets/js/main.js",
-				"/var/www/test.loc/package.json",
-				"/home/serii/Settings/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/var/www/test.loc/src/assets/sass/bootstrap_skin.scss",
-				"/home/serii/Settings/sublime-text-3/Packages/zzz A File Icon zzz/patches/general/multi/Default.sublime-theme",
-				"/var/www/stepantev.loc/index.html",
-				"/home/serii/Downloads/branches/README.txt",
-				"/home/serii/.config/sublime-text-3/.sublime/Local History/var/www/stepantev.loc/index-20171123154210.html",
-				"/home/serii/.config/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
-				"/home/serii/.config/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
-				"/var/www/test.site/labs/lab-3-2.html",
-				"/var/www/test.site/module-3/demo-3-2.html",
-				"/var/www/test.site/module-3/demo-3-1.html",
-				"/var/www/test.site/labs/lab-3-1.html",
-				"/var/www/test.site/labs/lab-2-2.html",
-				"/var/www/test.site/js/lab-1.js",
-				"/var/www/test.site/module-2/demo-2-3.html",
-				"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json"
+				"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
 			],
 			"find":
 			{
@@ -2370,11 +2759,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"fonts",
-					"CenturyGothic",
-					"CenturyGothic-BoldItalic",
-					"CenturyGothic-Bold",
-					"CenturyGothic"
+					"align",
+					"a.active",
+					"=>",
+					"have_posts",
+					"<?php bloginfo( 'template_url' ) ?>/images/small/",
+					"\")",
+					"(\"",
+					"css/"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2392,37 +2784,124 @@
 			"folders":
 			[
 				{
-					"path": "/var/www/start-template.loc"
+					"path": "/var/www/wp_fashion.loc"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/var/www/start-template.loc/src/index.html",
+							"file": "/var/www/wp_fashion.loc/wp-content/themes/themes1/single.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 51,
+								"buffer_size": 576,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										25,
-										25
+										549,
+										549
 									]
 								],
 								"settings":
 								{
+									"SL.14.region_keys":
+									[
+										"sublime_linter.protected_regions"
+									],
+									"SL.61.region_keys":
+									[
+									],
+									"always_show_minimap_viewport": true,
 									"apply_syntax_touched": true,
+									"auto_indent": true,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												730,
+												735
+											]
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
 									"bracket_highlighter.locations":
 									{
 										"close":
@@ -2445,85 +2924,122 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+									"detect_indentation": true,
+									"draw_centered": false,
+									"draw_minimap_border": true,
+									"draw_white_space": "selection",
+									"font_face": "Ubuntu Mono",
+									"font_options":
+									[
+									],
+									"gutter": true,
+									"highlight_line": true,
+									"indent_subsequent_lines": true,
+									"line_numbers": true,
+									"line_padding_bottom": 0,
+									"line_padding_top": 2,
+									"match_brackets": true,
+									"match_brackets_angle": false,
+									"match_brackets_braces": true,
+									"match_brackets_content": true,
+									"match_brackets_square": true,
+									"rulers":
+									[
+									],
+									"scroll_past_end": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_automatic_white_space": true,
+									"trim_trailing_white_space_on_save": false,
+									"use_tab_stops": true,
+									"word_wrap": "auto",
+									"wrap_width": 0
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/var/www/start-template.loc/src/templates/head.html",
+							"file": "/var/www/wp_fashion.loc/wp-content/themes/themes1/style.css",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 651,
+								"buffer_size": 7760,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										651,
-										651
+										4256,
+										4256
 									]
 								],
 								"settings":
 								{
+									"SL.15.region_keys":
+									[
+									],
+									"SL.62.region_keys":
+									[
+									],
 									"apply_syntax_touched": true,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
@@ -2549,173 +3065,65 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/var/www/start-template.loc/src/assets/less/partials/_fonts.less",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 927,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										916,
-										916
-									]
-								],
-								"settings":
-								{
-									"apply_syntax_touched": true,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
-									"syntax": "Packages/LESS/LESS.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 381.0,
+								"translation.y": 925.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2727,7 +3135,7 @@
 			},
 			"input":
 			{
-				"height": 52.0
+				"height": 65.0
 			},
 			"layout":
 			{
@@ -2807,6 +3215,90 @@
 				"selected_items":
 				[
 					[
+						"style",
+						"wp-content/themes/themes1/style.css"
+					],
+					[
+						"exh",
+						"wp-content/themes/themes1/exhibitions.html"
+					],
+					[
+						"ind",
+						"wp-content/themes/themes1/index.php"
+					],
+					[
+						"style.",
+						"wp-content/themes/themes1/style.css"
+					],
+					[
+						"about",
+						"wp-content/themes/themes1/about.html"
+					],
+					[
+						"sidebar",
+						"wp-content/themes/themes1/sidebar.php"
+					],
+					[
+						"page",
+						"wp-content/themes/themes1/page.php"
+					],
+					[
+						"index",
+						"wp-content/themes/themes1/index.php"
+					],
+					[
+						"header",
+						"wp-content/themes/themes1/header.php"
+					],
+					[
+						"footer",
+						"wp-content/themes/themes1/footer.php"
+					],
+					[
+						"funcions",
+						"wp-content/themes/themes1/functions.php"
+					],
+					[
+						"style.css",
+						"wp-content/themes/themes1/style.css"
+					],
+					[
+						"footer.php",
+						"wp-content/themes/theme1/footer.php"
+					],
+					[
+						"functins",
+						"wp-content/themes/theme1/functions.php"
+					],
+					[
+						"wp-conf",
+						"wp-config.php"
+					],
+					[
+						"index.php",
+						"wp-content/themes/theme1/index.php"
+					],
+					[
+						"wp-config",
+						"wp-config.php"
+					],
+					[
+						".ht",
+						".htaccess"
+					],
+					[
+						"sinl",
+						"wp-content/themes/theme1/single.php"
+					],
+					[
+						"search.php",
+						"wp-content/themes/theme1/search.php"
+					],
+					[
+						"index.",
+						"wp-content/themes/theme1/index.php"
+					],
+					[
 						"_fo",
 						"src/assets/less/partials/_fonts.less"
 					],
@@ -2817,10 +3309,6 @@
 					[
 						"head",
 						"src/templates/head.html"
-					],
-					[
-						"index",
-						"src/index.html"
 					],
 					[
 						"variables.sc",
@@ -2867,10 +3355,6 @@
 						"src/templates/end.html"
 					],
 					[
-						"ind",
-						"src/index.html"
-					],
-					[
 						"sc",
 						"script.js"
 					],
@@ -2893,10 +3377,6 @@
 					[
 						"inde",
 						"index.html"
-					],
-					[
-						"index.",
-						"src/index.html"
 					],
 					[
 						"gull",
@@ -2923,20 +3403,8 @@
 						"src/assets/sass/style.scss"
 					],
 					[
-						"style.",
-						"style.css"
-					],
-					[
-						"style",
-						"style.css"
-					],
-					[
 						"scri",
 						"script.js"
-					],
-					[
-						"header",
-						"src/assets/header/header.scss"
 					],
 					[
 						"mix",
@@ -3159,12 +3627,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 294.0,
+			"side_bar_width": 239.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 196,
+			"window_id": 223,
 			"workspace_name": ""
 		}
 	],
