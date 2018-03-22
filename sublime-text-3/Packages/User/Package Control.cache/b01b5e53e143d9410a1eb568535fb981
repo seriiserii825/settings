@@ -1,8 +1,0 @@
-{
-	"schema_version": "3.0.0",
-	"packages": [],
-	"includes": [
-		"./org.json",
-		"./contrib.json"
-	]
-}
