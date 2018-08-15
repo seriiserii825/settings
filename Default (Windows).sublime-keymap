@@ -1,0 +1,108 @@
+[
+  //emmet
+  //ctrl+shift+; - remove bracket
+  //ctrl+shift+. - select next item
+  //ctrl+, - ballance outword
+  //ctrl+shift+' - rename tag
+  //ctrl+alt+j - match pair tag
+  
+  {"keys": ["ctrl+alt+shift+,"], "args": {"action": "balance_inward"}, "command": "run_emmet_action", "context": [{"key": "emmet_action_enabled.balance_inward"} ] },
+  
+  { "keys": ["ctrl+shift+alt+o"], "command": "prompt_open_folder" },
+  { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+  { "keys": ["ctrl+f10"], "command": "context_menu" },
+
+  { "keys": ["alt+right"], "command": "next_view" },
+  { "keys": ["alt+left"], "command": "prev_view" },
+  { "keys": ["alt+."], "command": "close" },
+
+  { "keys": ["alt+j"], "command": "find_under_expand" },
+  { "keys": ["ctrl+up"], "command": "scroll_lines", "args": {"amount": 8.0 } },
+  { "keys": ["ctrl+down"], "command": "scroll_lines", "args": {"amount": -8.0 } },
+  { "keys": ["ctrl+alt+t"], "command": "reopen_last_file" },
+  { "keys": ["f12"], "command": "reindent", "args": {"single_line": false}},
+  { "keys": ["ctrl+alt+shift+s"], "command": "expand_selection", "args": {"to": "line"} },
+  { "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
+  { "keys": ["ctrl+d"], "command": "duplicate_line" },
+  { "keys": ["ctrl+alt+shift+d"], "command": "plain_tasks_complete","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] },
+
+  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+  { "keys": ["ctrl+shift+alt+q"], "command": "expand_selection", "args": {"to": "brackets"} },
+
+    // Select text between brackets
+    {
+        "no_outside_adj": null,
+        "keys": ["ctrl+l"],
+        "command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect"
+            }
+        }
+    },
+
+    //ace jump
+    {
+        //"keys": ["ctrl+shift+;"],
+        "keys": ["ctrl+alt+shift+;"],
+        "command": "ace_jump_word"
+    },
+    {
+        "keys": ["ctrl+,"],
+        "command": "ace_jump_char"
+    },
+    {
+        "keys": ["ctrl+shift+."],
+        "command": "ace_jump_line"
+    },
+    {
+        "keys": ["ctrl+shift+,"],
+        "command": "ace_jump_within_line"
+    },
+    {
+        "keys": ["alt+;"],
+        "command": "ace_jump_select"
+    },
+    {
+        "keys": ["alt+'"],
+        "command": "ace_jump_add_cursor"
+    },
+    {
+        //"keys": ["alt+."],
+        "command": "ace_jump_after"
+    }
+
+    //easy motion
+    // { 
+    //     "keys": ["ctrl+;", "<character>"], 
+    //     "command": "easy_motion",
+    //     "args": {"select_text": false} 
+    // },
+    // { 
+    //     "keys": ["ctrl+;", "enter"], 
+    //     "command": "easy_motion",
+    //     "args": {"select_text": false, "character": "enter"}
+    // },
+    // { 
+    //     "keys": ["ctrl+alt+shift+;", "<character>"], 
+    //     "command": "easy_motion",
+    //     "args": {"select_text": true} 
+    // },
+    // { 
+    //     "keys": ["ctrl+alt+shift+;", "enter"], 
+    //     "command": "easy_motion",
+    //     "args": {"select_text": true, "character": "enter"}
+    // },
+
+    // { "keys": ["j", "j"], "command": "exit_insert_mode",
+    // "context":
+    //     [
+    //         { "key": "setting.command_mode", "operand": false },
+    //         { "key": "setting.is_widget", "operand": false }
+    //     ]
+    // }
+]
